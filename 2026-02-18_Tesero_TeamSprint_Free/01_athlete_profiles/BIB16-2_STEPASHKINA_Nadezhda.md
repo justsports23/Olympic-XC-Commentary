@@ -1,7 +1,7 @@
 # Nadezhda Stepashkina (KAZ)
 *Pronunciation: nah-DYEZH-dah steh-PASH-kih-nah*
 **Bib:** 16-2 | **FIS Code:** [DATA NOT FOUND] (FIS competitor ID 200730) | **DOB:** 04 September 1998 | **Age:** 27
-**Club/Team:** Shchuchinsk | **National Team Tier:** A-team
+**Club/Team:** Shchuchinsk | **National Team Tier:** A-team ([Kazakhstan at 2026 Winter Olympics — Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan_at_the_2026_Winter_Olympics))
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND] (Rank [DATA NOT FOUND])
@@ -15,16 +15,16 @@
 | 2026-02-18 | Olympic Games Team Sprint Free | Tesero, ITA | Sprint | Team Sprint | TBD | — |
 
 ## Career Highlights
-- Olympic results: 2022 Beijing — Women's Sprint Free Qualification; Women's 4x5km Relay (15th); 2026 Milano Cortina — 15th in Women's 4x7.5km Relay; competing in Women's Team Sprint Free; two total Olympics
-- World Championship results: 2023 Planica — 12th in Women's 4x5km Relay; 2025 Trondheim — participated; two total World Championships
-- World Cup wins/podiums: No wins; career best 8th in Toblach
+- Olympic results: 2022 Beijing — Women's Sprint Free Qualification; Women's 4x5km Relay (15th) ([Olympics.com](https://www.olympics.com/en/athletes/nadezhda-stepashkina)); 2026 Milano Cortina — 15th in Women's 4x7.5km Relay; competing in Women's Team Sprint Free; two total Olympics ([Kazakhstan at 2026 Winter Olympics — Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan_at_the_2026_Winter_Olympics))
+- World Championship results: 2023 Planica — 12th in Women's 4x5km Relay; 2025 Trondheim — participated; two total World Championships ([Olympics Wiki Fandom](https://olympics.fandom.com/wiki/Nadezhda_Stepashkina))
+- World Cup wins/podiums: No wins; career best 8th in Toblach ([FIS Biography](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=200730))
 - Tour de Ski: [DATA NOT FOUND]
-- Other: Member of Kazakhstan women's relay team that won silver at a 2025 winter games (national-level competition — [UNVERIFIED whether FIS-sanctioned event or national games]); consistent World Cup competitor since debut
+- Other: Member of Kazakhstan women's relay team that won silver at a 2025 winter games (national-level competition — [UNVERIFIED whether FIS-sanctioned event or national games]) ([The Astana Times](https://astanatimes.com/2025/02/kazakhstans-winter-games-success-continues-with-biathlon-gold-and-cross-country-silver/)); consistent World Cup competitor since debut ([FIS Biography](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=200730))
 
 ## Technique & Format Profile
 - **Classic strength:** [DATA NOT FOUND]
-- **Freestyle strength:** Good — career best 8th in Toblach; consistent freestyle results
-- **Sprint ability:** Moderate — competed in sprint free qualification at 2022 Olympics; secondary to distance form
+- **Freestyle strength:** Good — career best 8th in Toblach; consistent freestyle results ([FIS Biography](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=200730))
+- **Sprint ability:** Moderate — competed in sprint free qualification at 2022 Olympics; secondary to distance form ([Olympics.com](https://www.olympics.com/en/athletes/nadezhda-stepashkina))
 - **Distance preference:** Distance focus — strongest results in interval start and relay events
 - **Best format:** Relay and interval start
 - **Climbing ability:** [DATA NOT FOUND]
@@ -36,7 +36,7 @@
 | 2026-02-18 | Olympic Games Team Sprint Free | Sprint | TBD | — |
 
 ## Key Storylines
-Two-time Olympian and Kazakhstan's most experienced women's cross-country skier alongside Ryazhko. Stepashkina grew up in Shchuchinsk, Akmola region — a city with a strong cross-country skiing tradition in Kazakhstan, situated near the Burabay National Park winter sports complex. Her career best 8th at Toblach is among Kazakhstan's strongest individual World Cup results in women's cross-country skiing. Both her Olympic relay finishes (15th at Beijing 2022 and 15th at Milano Cortina 2026) show remarkable consistency at the top level. The Astana Times reported in early 2026 that Kazakhstan was enjoying success across winter sports events, with the cross-country team contributing to national momentum. As the more accomplished individual racer in the Kazakhstan team sprint duo, her relay experience translates directly to the team sprint format's demands.
+Two-time Olympian and Kazakhstan's most experienced women's cross-country skier alongside Ryazhko ([Kazakhstan at 2026 Winter Olympics — Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan_at_the_2026_Winter_Olympics)). Stepashkina grew up in Shchuchinsk, Akmola region — a city with a strong cross-country skiing tradition in Kazakhstan, situated near the Burabay National Park winter sports complex ([The Astana Times](https://astanatimes.com/2026/02/week-one-at-milano-cortina-kazakhstans-olympic-opening/)). Her career best 8th at Toblach is among Kazakhstan's strongest individual World Cup results in women's cross-country skiing ([FIS Biography](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=cc&competitorid=200730)). Both her Olympic relay finishes (15th at Beijing 2022 and 15th at Milano Cortina 2026) show remarkable consistency at the top level ([Olympics.com](https://www.olympics.com/en/athletes/nadezhda-stepashkina)) ([Kazakhstan at 2026 Winter Olympics — Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan_at_the_2026_Winter_Olympics)). The Astana Times reported in early 2026 that Kazakhstan was enjoying success across winter sports events, with the cross-country team contributing to national momentum ([The Astana Times](https://astanatimes.com/2026/02/week-one-at-milano-cortina-kazakhstans-olympic-opening/)). As the more accomplished individual racer in the Kazakhstan team sprint duo, her relay experience translates directly to the team sprint format's demands.
 
 **Pairing note:** Stepashkina is Kazakhstan's most dependable World Cup performer; paired with Ryazhko's relay experience, Kazakhstan brings a cohesive two-athlete team. Their consistent 15th-place relay finishes across two Olympic cycles suggest reliable execution under pressure.
 

@@ -119,8 +119,8 @@ At cold temperatures with transformed snow, a fine cross-hatched structure or me
 The Tesero venue sits at **830–985 m above sea level** — modest altitude that primarily affects athletes who have trained at or near sea level without altitude acclimatization.
 
 - For Scandinavian athletes (NOR, SWE, FIN), who regularly train at 800–1,200 m or above, this altitude presents no meaningful challenge.
-- For USA's Diggins (trains at altitude in Stratton, Vermont, and at high-altitude camps) and SUI's Kälin (trains in St. Moritz at ~1,800 m), the altitude is well within their training range.
-- **Most affected:** Athletes from nations with primarily sea-level training environments — some Eastern European and lower-seeded nations. At 900 m, the reduction in air density is approximately 9–10% compared to sea level, translating to a modest but measurable increase in perceived effort at high workloads.
+- For USA's Diggins (trains at altitude in Stratton, Vermont, and at high-altitude camps) and SUI's Kälin (trains in St. Moritz at ~1,800 m — [Bluewin.ch](https://www.bluewin.ch/en/index/nadja-kaelin-is-switzerlands-greatest-hope-in-the-skiathlon-3084952.html)), the altitude is well within their training range.
+- **Most affected:** Athletes from nations with primarily sea-level training environments — some Eastern European and lower-seeded nations. At 900 m, the reduction in air density is approximately 9–10% compared to sea level [NEEDS VERIFICATION — general physiology estimate], translating to a modest but measurable increase in perceived effort at high workloads.
 - **In sprint racing specifically**, the brief anaerobic bursts of sprint laps (~3–4 minutes per lap at very high intensity) are somewhat buffered from altitude effects compared to 50km distance races. The altitude factor is secondary to sprint form and technique.
 
 Source: [Course Profile — Tesero Cross-Country Skiing Stadium](../00_race_info/course_profile.md) | [NBC Olympics — Cross-Country Skiing Venue](https://www.nbcolympics.com/news/cross-country-skiing-101-venue)
@@ -160,17 +160,17 @@ Some teams may deliberately assign their fastest athlete to Leg 1 to control the
 
 ### Temperature and Warming Window
 
-Race morning begins around -5°C to -6°C at the venue. By the time of the qualification start (09:45 CET), temperatures are expected to have risen to approximately -3°C to -5°C. By the final start (11:45 CET), the warming trend may push to -2°C to -3°C.
+Race morning begins around -5°C to -6°C at the venue. By the time of the qualification start (09:45 CET), temperatures are expected to have risen to approximately -3°C to -5°C. By the final start (11:45 CET), the warming trend may push to -2°C to -3°C. (Forecast data from [Snow-Forecast.com](https://www.snow-forecast.com/resorts/TeseroPampeago/6day/mid) and [J2Ski](https://us.j2ski.com/snow_forecast/Italy/Val_di_Fiemme_snow.html).)
 
 This modest warming during the course of the competition day is a standard scenario for spring-type February conditions at 900 m elevation in the Italian Alps. Service teams will have a ~2-hour window between qualification and the final to adjust glide wax if track conditions shift meaningfully.
 
 ### Snow Surface
 
-Conditions expected: firm, transformed snow base, likely with a light surface layer from prior days' snowfall (last significant natural snow approximately February 11). The track is supplemented with [artificial snowmaking from the venue's underground system](https://www.guidetoitaly.com/val-di-fiemme-milano-cortina-2026-guide/). After qualification laps (26 teams × 2 laps = 52 laps of the course), the snow surface will show moderate wear in the inner corners and braking zones. The grooming crew will re-groom the course before the final if track conditions warrant.
+Conditions expected: firm, transformed snow base, likely with a light surface layer from prior days' snowfall (last significant natural snow approximately February 11 — [J2Ski](https://us.j2ski.com/snow_forecast/Italy/Val_di_Fiemme_snow.html)). The track is supplemented with [artificial snowmaking from the venue's underground system](https://www.guidetoitaly.com/val-di-fiemme-milano-cortina-2026-guide/). After qualification laps (26 teams × 2 laps = 52 laps of the course), the snow surface will show moderate wear in the inner corners and braking zones. The grooming crew will re-groom the course before the final if track conditions warrant.
 
 ### Wind Considerations
 
-Forecast wind: approximately 5 km/h from the SW-WNW direction. At this speed, wind has minimal direct impact on glide or athlete effort. The stadium at Tesero is partially sheltered by terrain to the north and east. Wind exposure is primarily at the course's highest point. Teams do not need to account for head/tailwind differentials that would affect wax selection.
+Forecast wind: approximately 5 km/h from the SW-WNW direction ([Snow-Forecast.com](https://www.snow-forecast.com/resorts/TeseroPampeago/6day/mid)). At this speed, wind has minimal direct impact on glide or athlete effort. The stadium at Tesero is partially sheltered by terrain to the north and east. Wind exposure is primarily at the course's highest point. Teams do not need to account for head/tailwind differentials that would affect wax selection.
 
 Source: [Conditions & Wax Report](../00_race_info/conditions_and_wax.md) | [Snow-Forecast.com](https://www.snow-forecast.com/resorts/TeseroPampeago/6day/mid)
 

@@ -34,7 +34,7 @@ This file analyzes the five most important direct rivalries and matchup dynamics
 
 ### Historical Context
 
-Sweden has been the dominant force in women's team sprint free over the past five years, winning World Championship gold in 2021, 2023, and 2025. Norway won Olympic team sprint gold in 2010 (Bjørgen/Weng) and 2014 (Bjørgen/Oestberg) but has not won the team sprint free at a major championship in recent years.
+Sweden has been the dominant force in women's team sprint free over the past five years, winning World Championship gold in [2021](https://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_2021_%E2%80%93_Women's_team_sprint), [2023](https://www.proxcskiing.com/traditional-skiing/sweden-wins-the-womens-team-sprint-race-at-the-world-championships-in-planica/), and [2025](https://nordicinsights.news/2025/03/05/swedish-women-take-fourth-consecutive-team-sprint-gold-kern-and-diggins-claim-silver/). Norway won Olympic team sprint gold in [2010](https://www.olympics.com/en/olympic-games/vancouver-2010/results/cross-country-skiing/team-sprint-women) (Bjørgen/Weng) and [2014](https://www.olympics.com/en/olympic-games/sochi-2014/results/cross-country-skiing/team-sprint-women) (Bjørgen/Oestberg) but has not won the team sprint free at a major championship in recent years.
 
 The Slind/Drivenes pairing is relatively new — they were not the Norway team sprint pairing that contested the last Worlds. Their Goms result (2nd, behind Germany) is the primary data point for this specific team in this format. Slind brings extraordinary climbing and distance endurance; Drivenes brings the sprint speed that keeps Norway competitive in the final lap.
 
@@ -82,7 +82,7 @@ The critical question for this matchup: does Fähndrich's January 6 win at this 
 - Classic technique and free technique reward different physical qualities; Fähndrich's classic sprint specialization does not directly transfer
 - Kälin's distance-focused skating profile is her main limitation — she must survive the free technique format for three laps
 
-**Historical Pattern:** Sweden has beaten Switzerland in every major team sprint championship direct confrontation in the past five years. Switzerland's best result against Sweden was the 2021 Worlds silver (+0.95) when Fähndrich outsprinted most of the field on the anchor. The pattern here repeats if the race comes down to Dahlqvist vs. Fähndrich — Sweden has the closing edge.
+**Historical Pattern:** Sweden has beaten Switzerland in every major team sprint championship direct confrontation in the past five years ([FIS results](https://www.fis-ski.com/DB/general/results.html?sectorcode=CC&raceid=36551)). Switzerland's best result against Sweden was the [2021 Worlds silver](https://fasterskier.com/2021/02/swedens-sundling-edges-out-switzerland-for-team-sprint-gold-usa-5th/) (+0.95) when Fähndrich outsprinted most of the field on the anchor. The pattern here repeats if the race comes down to Dahlqvist vs. Fähndrich — Sweden has the closing edge.
 
 Sources: [Nordic Mag: Fähndrich wins at Val di Fiemme Jan 6, 2026](https://www.nordicmag.info/en/cross-country-skiing-val-di-fiemme-nadine-faehndrich-finds-her-way-back-to-victory-in-the-classic-sprint-of-the-tour-de-ski-0103/) | [FasterSkier: Sweden edges Switzerland for 2021 Worlds team sprint gold](https://fasterskier.com/2021/02/swedens-sundling-edges-out-switzerland-for-team-sprint-gold-usa-5th/) | [Nordic Mag: Switzerland dazzled by Kälin 4th](https://www.nordicmag.info/en/2026-olympics-cross-country-skiing-switzerland-dazzled-by-nadja-kaelins-fourth-place-in-the-skiathlon-0207/)
 
@@ -100,7 +100,7 @@ Sources: [Nordic Mag: Fähndrich wins at Val di Fiemme Jan 6, 2026](https://www.
 | 2025-02 | World Championships Team Sprint Free, Trondheim | Silver (Diggins/Kern) | Gold (Sundling/Dahlqvist) | SWE | [UNVERIFIED exact margin] |
 | 2023-02 | World Championships Team Sprint Free, Planica | Bronze (Diggins/Kern, +5.33) | Gold (Sundling/Ribom) | SWE | [source](https://www.proxcskiing.com/traditional-skiing/sweden-wins-the-womens-team-sprint-race-at-the-world-championships-in-planica/) |
 | 2021-02 | World Championships Team Sprint Free, Oberstdorf | 5th (Diggins/Kern) | Gold (Sundling/Dahlqvist) | SWE | |
-| 2018-02 | Olympics Team Sprint Free, PyeongChang | Gold (Diggins/Randall) | Silver (Kalla/Nilsson) | USA | Diggins/Randall historic first US gold |
+| 2018-02 | Olympics Team Sprint Free, PyeongChang | Gold (Diggins/Randall) | Silver (Kalla/Nilsson) | USA | [Diggins/Randall historic first US gold](https://www.cbsnews.com/news/winter-olympics-2018-us-women-win-first-cross-country-olympic-gold-medal/) |
 
 ### 2025-26 Season Record
 
@@ -141,7 +141,7 @@ Sweden (Sundling/Dahlqvist) did not compete in the Goms World Cup Team Sprint �
 
 Historical data:
 - 2023 Worlds Free, Planica: GER not on podium (Czech, USA, NOR, SUI were above)
-- 2022 Olympics: **GER (Carl/Hennig) won gold; SWE (Sundling/Dahlqvist) silver** — Germany won that Olympic team sprint free when the format last appeared
+- 2022 Olympics: **GER (Carl/Hennig) won gold; SWE (Sundling/Dahlqvist) silver** ([Wikipedia — 2022 Women's Team Sprint](https://en.wikipedia.org/wiki/Cross-country_skiing_at_the_2022_Winter_Olympics_%E2%80%93_Women's_team_sprint)) — Germany won that Olympic team sprint free when the format last appeared
 - 2021 Worlds: SWE won over SUI; GER was not on podium
 
 **Key context:** The 2022 Olympic gold was won by a *different* Germany pairing (Victoria Carl and Katharina Hennig). Gimmler and Rydzek are not direct continuations of the Carl/Hennig dynasty — they are a different German team that has established its own credentials through the Goms win. Rydzek's [maiden World Cup win in Sprint Free at Lahti in March 2025](https://www.fis-ski.com/cross-country/news/2024-25/rydzek-claims-maiden-world-cup-win-in-season-s-last-sprint) is her key individual statement.

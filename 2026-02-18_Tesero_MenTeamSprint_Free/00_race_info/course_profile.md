@@ -5,14 +5,14 @@
 - **Stadium:** Tesero Cross-Country Skiing Stadium (Centro Fondo e Biathlon Fabio Canal)
 - **Location:** Lago di Tesero, Tesero, Val di Fiemme, Trentino-Alto Adige, Italy
 - **Coordinates:** approx. 46.31° N, 11.60° E
-- **Venue Altitude:** ~830–850 m above sea level ([NBC Olympics venue guide](https://www.nbcolympics.com/news/cross-country-skiing-101-venue); [snow-forecast.com](https://www.snow-forecast.com/resorts/ValdiFiemmme/metars/latest))
+- **Venue Altitude:** ~830–850 m above sea level (NBC Olympics states "830m" ([NBC Olympics venue guide](https://www.nbcolympics.com/news/cross-country-skiing-101-venue)); Wikipedia states "850 metres" ([Wikipedia — Cross country and biathlon center Fabio Canal](https://en.wikipedia.org/wiki/Cross_country_and_biathlon_center_Fabio_Canal)))
 - **Stadium Capacity:** ~15,000 spectators ([NBC Olympics venue guide](https://www.nbcolympics.com/news/cross-country-skiing-101-venue))
 
 ---
 
 ## Sprint Course — Olympic Specification
 
-The Men's Team Sprint Free uses the same 1.585 km Olympic sprint course used for the individual sprint events at these Games. The course was also raced during the January 2026 Tour de Ski Val di Fiemme stage, giving athletes a preview of the exact Olympic track ([FasterSkier Tour de Ski sprint](https://fasterskier.com/2026/01/a-sprint-built-for-february-raced-in-january-with-tour-fatigue/)).
+The Men's Team Sprint Free uses the same 1.585 km Olympic sprint course used for the individual sprint events at these Games ([NBC Olympics](https://www.nbcolympics.com/news/cross-country-skiing-2026-winter-olympics)). The course was also raced during the January 2026 Tour de Ski Val di Fiemme stage (in classic technique), giving athletes a preview of the exact Olympic track layout ([FasterSkier Tour de Ski sprint](https://fasterskier.com/2026/01/a-sprint-built-for-february-raced-in-january-with-tour-fatigue/); [NBC Olympics](https://www.nbcolympics.com/news/johannes-hoesflot-klaebo-torches-sprint-competition-val-di-fiemme-olympic-course)).
 
 | Parameter | Value | Source |
 |-----------|-------|--------|
@@ -28,7 +28,7 @@ The Men's Team Sprint Free uses the same 1.585 km Olympic sprint course used for
 
 ## Course Character and Notable Sections
 
-Based on reporting from the January 2026 Tour de Ski sprint held on the same course ([FasterSkier](https://fasterskier.com/2026/01/a-sprint-built-for-february-raced-in-january-with-tour-fatigue/); [FasterSkier Klaebo wins sprint](https://fasterskier.com/2026/01/klaebo-wins-classic-sprint-in-val-di-fiemme-as-the-tour-de-ski-heads-for-alpe-cermis/)):
+Based on reporting from the January 2026 Tour de Ski classic sprint held on the same physical course ([FasterSkier](https://fasterskier.com/2026/01/a-sprint-built-for-february-raced-in-january-with-tour-fatigue/); [FasterSkier — Klaebo wins classic sprint](https://fasterskier.com/2026/01/klaebo-wins-classic-sprint-in-val-di-fiemme-as-the-tour-de-ski-heads-for-alpe-cermis/); note: the Tour de Ski sprint was classic technique; the Olympic team sprint is freestyle, but the course layout is identical):
 
 - **Defining feature — long sustained climb:** The course is built around one prominent, sustained uphill section. This climb is the race's selective element: athletes who arrive at the base of the climb in poor position or with insufficient power are exposed. The climb offers passing opportunities but demands controlled power output to execute them.
 - **Technical descents:** The course features ripping downhills that require precise technique and fast glide. Tactical skiing on the descents is rewarded; errors cost time and position.
