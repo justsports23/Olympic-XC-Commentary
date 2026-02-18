@@ -1,6 +1,7 @@
 # Gasper Brecl (SLO)
 **Bib:** 4-1 | **FIS Code:** 100398 | **DOB:** November 18, 1999 | **Age:** 26
-**Club/Team:** SSK Velenje | **National Team Tier:** Slovenia National Team
+**Hometown:** Velenje, Slovenia [Velenje Municipality](https://www.velenje.si/)
+**Club/Team:** SSK Mislinja (formerly SSK Velenje) | **National Team Tier:** Slovenia National Team
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -41,7 +42,16 @@
 - Part of Slovenia's rising Nordic Combined program alongside Vrhovnik
 - Historic Summer Grand Prix mixed team victory at Tschagguns in 2024
 - Best World Cup results all come in team formats — well-suited for Team Sprint
-- Competes for SSK Velenje, one of Slovenia's traditional ski clubs
+- Competes for SSK Mislinja (formerly SSK Velenje), one of Slovenia's traditional ski clubs
+- 2022 Slovenian National Champion in NC [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=176006&type=result)
+- Coach: Goran Janus (head), Gasper Berlot and Anze Obrez (assistants), Rolando Kaligaro (club) [Koroški Radio](https://www.koroskiradio.si/)
+- Family: from 6-member family, sisters and younger brother in sports; Jerneja Brecl (ski jumper for SLO) very likely his sister [UNVERIFIED] [Velenje Municipality](https://www.velenje.si/)
+
+## Personal Information
+- **Hometown:** Velenje, Slovenia [Velenje Municipality](https://www.velenje.si/)
+- **Family:** From a 6-member family; sisters and younger brother active in sports; Jerneja Brecl (SJ for Slovenia) very likely his sister [UNVERIFIED] [MojaObcina](https://www.mojaobcina.si/)
+- **Coaches:** Goran Janus (head), Gasper Berlot and Anze Obrez (assistants), Rolando Kaligaro (club) [Koroški Radio](https://www.koroskiradio.si/)
+- **Social Media:** Instagram: [@gasper_brecl](https://www.instagram.com/gasper_brecl/) [Wikidata](https://www.wikidata.org/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -53,3 +63,7 @@
 - [Olympics.com — Gasper Brecl](https://www.olympics.com/en/athletes/gasper-brecl)
 - [FIS — Tschagguns Slovenia Mixed Team History](https://www.fis-ski.com/nordic-combined/news/2024-25/tschagguns-slovenia-writes-mixed-team-history)
 - [WeltSki — Brecl Profile](https://www.weltski.de/en/person/sp47/nordic-combined/pe536617/gasper-brecl/)
+- [Velenje Municipality — Brecl](https://www.velenje.si/)
+- [Koroški Radio — NC coaching](https://www.koroskiradio.si/)
+- [MojaObcina — Brecl family](https://www.mojaobcina.si/)
+- [Wikidata — Gasper Brecl](https://www.wikidata.org/)

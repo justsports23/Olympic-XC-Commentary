@@ -1,6 +1,7 @@
 # Milosz Krzempek (POL)
 **Bib:** 2-2 | **FIS Code:** 229769 | **DOB:** May 1, 2003 | **Age:** 22
-**Club/Team:** WSS Wisła | **National Team Tier:** Poland National Team
+**Hometown:** Wisla, Poland
+**Club/Team:** WSS Wisla | **National Team Tier:** Poland National Team
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -43,6 +44,13 @@
 - Val di Fiemme familiarity: His best result (16th) came at Val di Fiemme, the same area as the Team Sprint venue
 - Competes alongside Kacper Jarzabek as Poland's Team Sprint duo
 - Also registered as a ski jumper with FIS (Code: 229769)
+- Started Alpen Cup 2021, Continental Cup from 2024, never World Cup before Olympics [firstskisport.com](https://firstskisport.com/nordic-combined/athlete.php?id=2360)
+- 2023 Polish Senior Summer Championship: Silver [sport.olza.pl](https://sport.olza.pl/en/aktualnosc/milosz-krzempek-wicemistrzem-polski)
+- Quote: "This race completely destroyed me. I broke a ski pole, got another one, I don't know from which team, it was too small. I lost about one and a half minutes on that. It was the most difficult race of my life." (on Olympic NH/10km race) [sportowefakty.wp.pl](https://sportowefakty.wp.pl/)
+
+## Personal Information
+- **Hometown:** Wisla, Poland [beskidzka24.pl](https://beskidzka24.pl/)
+- **Social Media:** Instagram: [@milosz_kenzi_krzempek](https://www.instagram.com/milosz_kenzi_krzempek/) [Instagram](https://www.instagram.com/milosz_kenzi_krzempek/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -56,3 +64,5 @@
 - [FIS Nordic Combined Results — Milano Cortina](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3534)
 - [FirstSkiSport — Krzempek Profile](https://firstskisport.com/nordic-combined/athlete.php?id=2360)
 - [Sport Olza — Polish Championship Result](https://sport.olza.pl/en/aktualnosc/milosz-krzempek-wicemistrzem-polski)
+- [sportowefakty.wp.pl — Krzempek Olympic Race](https://sportowefakty.wp.pl/)
+- [beskidzka24.pl — Krzempek Profile](https://beskidzka24.pl/)

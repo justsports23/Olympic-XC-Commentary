@@ -1,5 +1,7 @@
 # Aaron Kostner (ITA)
 **Bib:** 8-2 | **FIS Code:** 182077 | **DOB:** July 8, 1999 | **Age:** 26
+**Birthplace:** Sterzing/Vipiteno, Italy [Wikipedia](https://en.wikipedia.org/wiki/Aaron_Kostner) | **Hometown:** Ortisei (St. Ulrich), Val Gardena [SportNews.bz](https://en.sportnews.bz/)
+**Height:** 171 cm | **Weight:** 59 kg [Olympics.com](https://www.olympics.com/en/athletes/aaron-kostner)
 **Club/Team:** GS Fiamme Oro Moena | **National Team Tier:** Italy National Team
 
 ## Current Rankings
@@ -48,8 +50,21 @@
 - "Fired up for the Olympics" — focused on summer preparation for home Games [FIS](https://www.fis-ski.com/nordic-combined/news/2024-25/aaron-kostner-fired-up-for-the-olympics)
 - South Tyrol's Nordic Combined athletes reported as "getting better and better" before 2026 Olympics
 - Pairs with veteran Samuel Costa (comeback story) for Italy's Team Sprint
-- From Sterzing/Vipiteno — competes for Fiamme Oro Moena
+- From Sterzing/Vipiteno -- competes for Fiamme Oro Moena
 - Coach: Andrea Bezzi
+- Education: Sports high school (Sportoberschule) Ortisei [SportNews.bz](https://en.sportnews.bz/)
+- Hobbies: cycling, mountain running, slackline, trekking, reading [Olympics.com](https://www.olympics.com/en/athletes/aaron-kostner)
+- Major injury: ACL tear (left knee) plus posterior cruciate, medial ligament, and meniscus damage, Ramsau 2019 [SportNews.bz](https://en.sportnews.bz/)
+- Quote: "When I received the diagnosis, my world collapsed." [SportNews.bz](https://en.sportnews.bz/)
+
+## Personal Information
+- **Birthplace:** Sterzing/Vipiteno, Italy [Wikipedia](https://en.wikipedia.org/wiki/Aaron_Kostner)
+- **Hometown:** Ortisei (St. Ulrich), Val Gardena [SportNews.bz](https://en.sportnews.bz/)
+- **Height:** 171 cm | **Weight:** 59 kg [Olympics.com](https://www.olympics.com/en/athletes/aaron-kostner)
+- **Education:** Sports high school (Sportoberschule) Ortisei [SportNews.bz](https://en.sportnews.bz/)
+- **Hobbies:** Cycling, mountain running, slackline, trekking, reading [Olympics.com](https://www.olympics.com/en/athletes/aaron-kostner)
+- **Major Injury:** ACL tear (left knee) plus posterior cruciate, medial ligament, and meniscus damage, Ramsau 2019 [SportNews.bz](https://en.sportnews.bz/)
+- **Social Media:** Instagram: [@aaron_kostner](https://www.instagram.com/aaron_kostner/) [Instagram](https://www.instagram.com/aaron_kostner/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]

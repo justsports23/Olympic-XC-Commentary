@@ -54,6 +54,22 @@
 - Studying Electronics and Engineering at DeVry University [Team USA](https://www.teamusa.com/profiles/ben-loomis)
 - Career-best World Cup result (12th) came at Val di Fiemme — same venue area as this Team Sprint
 - Partners with Olympic rookie Malacinski for the USA Team Sprint
+- 2016 Youth Olympics Silver (first US NC medal at YOG) [Team USA](https://www.teamusa.com/profiles/ben-loomis)
+- Military: U.S. Army Sergeant, MOS 88M, World Class Athlete Program (WCAP), Utah National Guard [Army WCAP](https://www.armywcap.com/)
+- Quote: "I am humbled and very proud to be representing the United States of America as both a Soldier and an athlete." [Army WCAP](https://www.armywcap.com/)
+
+## Personal Information
+- **DOB:** June 9, 1998 [Team USA](https://www.teamusa.com/profiles/ben-loomis)
+- **Hometown:** Eau Claire, Wisconsin [WEAU](https://www.weau.com/)
+- **Current Residence:** Park City, Utah [TownLift](https://townlift.com/)
+- **Father:** Paul Loomis [FOX 11](https://www.fox11online.com/)
+- **Mother:** Karyl Loomis [FOX 11](https://www.fox11online.com/)
+- **Brother:** Adam Loomis (NC coach, Park City) [Nordic Combined USA](https://www.nordiccombinedusa.org/)
+- **Sister:** Sam Loomis [FOX 11](https://www.fox11online.com/)
+- **Grandmother:** Dorothy (95 years old, from Appleton, WI) [FOX 11](https://www.fox11online.com/)
+- **Education:** DeVry University (Electronics and Engineering); graduated Winter Sports School of Park City High School [Team USA](https://www.teamusa.com/profiles/ben-loomis)
+- **Military:** U.S. Army Sergeant, MOS 88M (Motor Transport Operator), World Class Athlete Program (WCAP), Utah National Guard [Army WCAP](https://www.armywcap.com/)
+- **Social Media:** Instagram: [@lenboomis](https://www.instagram.com/lenboomis/), Twitter: [@LenBoomis](https://twitter.com/LenBoomis) [Nordic Combined USA](https://www.nordiccombinedusa.org/athletes/ben-loomis/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -71,3 +87,7 @@
 - [FIS — NC Athlete of the Year 2022](https://www.fis-ski.com/en/nordic-combined/nordic-combined-news-multimedia/news-multimedia/news/2022-23/ben-loomis-named-nordic-combined-athlete-of-the-year)
 - [FasterSkier — Under 23 Questions Interview](https://fasterskier.com/2018/01/23-questions-ben-loomis-2/)
 - [Leader-Telegram — Third Olympics Feature](https://www.leadertelegram.com/sports/eau-claires-loomis-lives-his-dream-set-to-compete-in-3rd-olympics/)
+- [Army WCAP — Ben Loomis](https://www.armywcap.com/)
+- [WEAU — Loomis Hometown Feature](https://www.weau.com/)
+- [TownLift — Loomis Park City](https://townlift.com/)
+- [FOX 11 — Loomis Family Feature](https://www.fox11online.com/)

@@ -1,6 +1,8 @@
 # Vinzenz Geiger (GER)
-**Bib:** 13-2 | **FIS Code:** 157487 | **DOB:** July 24, 1997 | **Age:** 28
-**Club/Team:** SC 1906 Oberstdorf | **National Team Tier:** Germany A-Team
+**Bib:** 13-2 | **FIS Code:** 157487 (NK), 100119 (alternate) | **DOB:** July 24, 1997 | **Age:** 28
+**Birthplace:** Oberstdorf, Bavaria, Germany [Olympedia](https://www.olympedia.org/athletes/137317) | **Residence:** Oberstdorf
+**Height:** 180 cm | **Weight:** 65 kg [Olympedia](https://www.olympedia.org/athletes/137317)
+**Club/Team:** Ski-Club 1906 Oberstdorf e.V. | **Federation:** Deutscher Skiverband (DSV) | **National Team Tier:** Germany A-Team
 
 ## Current Rankings
 - World Cup Overall Standing: Defending champion — won 2024-25 Crystal Globe with 1,506 points [FIS](https://www.fis-ski.com/nordic-combined/news/2024-25/armbruster-and-geiger-are-overall-world-cup-champions)
@@ -44,13 +46,27 @@
 - 10th at Milano Cortina NH event — felt unwell in final 1.8km; form question heading into Team Sprint
 - First career WC win came at Val di Fiemme — special connection to this venue
 - From Oberstdorf — same club and town as Rydzek; Germany's powerhouse duo
-- FC Bayern München fan; married
-- Equipment: Atomic skis [Atomic](https://www.atomic.com/en/athletes/vinzenz-geiger)
+- FC Bayern Munich fan; married to Lisa Schafroth (now Lisa Geiger) [Skiclub Oberstdorf](https://www.skiclub-oberstdorf.de/club/news/standesamtlich-hatten-vinzenz-ge.html)
+- Podcast host: "Ski Happens" with Corinna Horn and Moritz Batscheider; running for 6+ seasons [VanDeer-Red Bull](https://vandeer-redbull-sports.com/en/stories/vinzenz-geiger)
+- Quote: "I had a great feeling from the very first test jump and was immediately happy with the material from VAN DEER-Red Bull Sports." [VanDeer-Red Bull](https://vandeer-redbull-sports.com/en/stories/vinzenz-geiger)
+- Total career stats: 2 Olympic golds, 1 Olympic silver, 4 WC silver medals, 14+ WC victories, 38+ total WC podiums [VanDeer-Red Bull](https://vandeer-redbull-sports.com/en/stories/vinzenz-geiger)
+- Described as "the Zen warrior" [Olympics.com](https://www.olympics.com/en/milano-cortina-2026/news/nordic-combined-vinzenz-geiger-the-zen-warrior)
+
+## Personal Information
+- **Birthplace:** Oberstdorf, Bavaria, Germany [Olympedia](https://www.olympedia.org/athletes/137317)
+- **Residence:** Oberstdorf [Skiclub Oberstdorf](https://www.skiclub-oberstdorf.de/club/athleten/vinzenz-geiger.html)
+- **Height:** 180 cm | **Weight:** 65 kg [Olympedia](https://www.olympedia.org/athletes/137317)
+- **Wife:** Lisa Schafroth (now Lisa Geiger) -- married in civil ceremony followed by church wedding [Skiclub Oberstdorf](https://www.skiclub-oberstdorf.de/club/news/standesamtlich-hatten-vinzenz-ge.html), [SportNews.bz](https://en.sportnews.bz/artikel/wintersport/nordische-kombination/olympiasieger-heiratet-nach-oertlicher-tradition)
+- **Hobbies:** FC Bayern Munich fan ("football fanatic"); podcast host ("Ski Happens", 6+ seasons); RAWBITE brand ambassador [Olympics.com](https://www.olympics.com/en/milano-cortina-2026/news/nordic-combined-vinzenz-geiger-the-zen-warrior), [VanDeer-Red Bull](https://vandeer-redbull-sports.com/en/stories/vinzenz-geiger), [RAWBITE](https://rawbite.com/blogs/community/vinzenz-geiger)
+- **Sponsors:** VAN DEER-Red Bull Sports (jumping skis from 2024/25), Red Bull, RAWBITE, Atomic (previous) [VanDeer-Red Bull](https://vandeer-redbull-sports.com/en/stories/vinzenz-geiger), [Red Bull](https://www.redbull.com/int-en/athlete/vinzenz-geiger), [RAWBITE](https://rawbite.com/blogs/community/vinzenz-geiger)
+- **Social Media:** Instagram: [@vinzenz_geiger](https://www.instagram.com/vinzenz_geiger/) [Skiclub Oberstdorf](https://www.skiclub-oberstdorf.de/club/athleten/vinzenz-geiger.html)
 
 ## Equipment
-- **Skis:** Atomic [Atomic](https://www.atomic.com/en/athletes/vinzenz-geiger)
+- **Jumping Skis:** VAN DEER-Red Bull Sports (switched for 2024/25 season) [VanDeer-Red Bull](https://vandeer-redbull-sports.com/en/stories/vinzenz-geiger)
+- **XC Skis:** Works with DSV ski pool [UNVERIFIED] [VanDeer-Red Bull](https://vandeer-redbull-sports.com/en/stories/vinzenz-geiger)
+- **Poles:** Swix [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=157487&type=result)
 - **Boots:** [DATA NOT FOUND]
-- **Poles:** [DATA NOT FOUND]
+- **Previously:** Atomic skis [Atomic](https://www.atomic.com/en/athletes/vinzenz-geiger)
 
 ## Sources
 - [FIS Athlete Biography](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=157487&type=result)
@@ -62,3 +78,11 @@
 - [Nordic Mag — Foot injury](https://www.nordicmag.info/en/nordic-combined-vinzenz-geiger-last-winters-globe-winner-will-not-take-part-in-the-ruka-and-trondheim-world-cups-due-to-a-foot-injury-1110)
 - [Atomic — Vinzenz Geiger](https://www.atomic.com/en/athletes/vinzenz-geiger)
 - [Ski Club Oberstdorf](https://www.skiclub-oberstdorf.de/club/athleten/vinzenz-geiger.html)
+- [Olympedia — Vinzenz Geiger](https://www.olympedia.org/athletes/137317)
+- [VanDeer-Red Bull Sports — Welcome Article](https://vandeer-redbull-sports.com/en/stories/vinzenz-geiger)
+- [Red Bull Athlete Profile](https://www.redbull.com/int-en/athlete/vinzenz-geiger)
+- [RAWBITE Community Profile](https://rawbite.com/blogs/community/vinzenz-geiger)
+- [Ski Happens Podcast (Spotify)](https://open.spotify.com/show/18GT4fNbJm9AzjWSPjPnBs)
+- [Skiclub Oberstdorf — Marriage News](https://www.skiclub-oberstdorf.de/club/news/standesamtlich-hatten-vinzenz-ge.html)
+- [SportNews.bz — Wedding Article](https://en.sportnews.bz/artikel/wintersport/nordische-kombination/olympiasieger-heiratet-nach-oertlicher-tradition)
+- [Instagram: @vinzenz_geiger](https://www.instagram.com/vinzenz_geiger/)

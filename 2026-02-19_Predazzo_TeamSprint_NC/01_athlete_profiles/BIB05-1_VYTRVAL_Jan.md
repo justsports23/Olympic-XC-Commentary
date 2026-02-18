@@ -1,6 +1,7 @@
 # Jan Vytrval (CZE)
-**Bib:** 5-1 | **FIS Code:** 166512 | **DOB:** August 5, 1998 | **Age:** 27
-**Club/Team:** Harrachov | **National Team Tier:** Czech A-Team
+**Bib:** 5-1 | **FIS Code:** 166512 (NK), 284304 (CC) | **DOB:** April 5, 1999 | **Age:** 26
+**Birthplace:** Liberec, Czech Republic [Czech Wikipedia](https://cs.wikipedia.org/wiki/Jan_Vytrval)
+**Club/Team:** ASO Dukla Liberec | **National Team Tier:** Czech A-Team
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -43,6 +44,16 @@
 - Pairs with rising talent Jiri Konvalinka for Czech Team Sprint
 - Based in Harrachov, a traditional Czech Nordic ski center
 - World Cup 32nd overall this season shows consistent form
+- 2018 Junior Worlds Bronze [Czech Ski Federation](https://www.czech-ski.com/)
+- 2025 WCh Trondheim: 22nd Gundersen (career-best, tied 2021) [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=NK&competitorid=166512)
+- Coach: Marek Sablatura [Czech Ski Federation](https://www.czech-ski.com/)
+
+## Personal Information
+- **Birthplace:** Liberec, Czech Republic [Czech Wikipedia](https://cs.wikipedia.org/wiki/Jan_Vytrval)
+- **DOB:** April 5, 1999 [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=NK&competitorid=166512)
+- **Club:** ASO Dukla Liberec [Czech Ski Federation](https://www.czech-ski.com/)
+- **FIS Codes:** NK 166512, CC 284304 [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=NK&competitorid=166512)
+- **Coach:** Marek Sablatura [Czech Ski Federation](https://www.czech-ski.com/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -56,3 +67,5 @@
 - [FIS Results — Trondheim 2025-2026](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3482)
 - [FIS Results — Ramsau 2025-2026](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3492)
 - [FIS Results — Otepää 2025-2026](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3504)
+- [Czech Ski Federation](https://www.czech-ski.com/)
+- [Czech Wikipedia — Jan Vytrval](https://cs.wikipedia.org/wiki/Jan_Vytrval)

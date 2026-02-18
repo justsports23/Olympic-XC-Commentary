@@ -1,6 +1,7 @@
 # Vid Vrhovnik (SLO)
 **Bib:** 4-2 | **FIS Code:** 176003 | **DOB:** July 12, 1999 | **Age:** 26
-**Club/Team:** [DATA NOT FOUND] | **National Team Tier:** Slovenia National Team
+**Birthplace:** Slovenj Gradec, Styria, Slovenia [Wikipedia](https://en.wikipedia.org/wiki/Vid_Vrhovnik) | **Height:** 176 cm [Olympics Fandom](https://olympics.fandom.com/)
+**Club/Team:** SSK Ljubno BTC (formerly SSK Velenje) | **National Team Tier:** Slovenia National Team
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -47,6 +48,14 @@
 - Steady partner with Brecl on the Slovenian team — both part of the historic Tschagguns Mixed Team victory
 - 22nd in Individual LH/10km at Milano Cortina is his best Olympic individual result
 - Instagram: [@vvrhovnik](https://www.instagram.com/vvrhovnik/)
+- Coach: Goran Janus [Velenje Municipality](https://www.velenje.si/)
+
+## Personal Information
+- **Birthplace:** Slovenj Gradec, Styria, Slovenia [Wikipedia](https://en.wikipedia.org/wiki/Vid_Vrhovnik)
+- **Height:** 176 cm [Olympics Fandom](https://olympics.fandom.com/)
+- **Club:** SSK Ljubno BTC (formerly SSK Velenje) [Planica.si](https://www.planica.si/)
+- **Coach:** Goran Janus (head coach) [Velenje Municipality](https://www.velenje.si/)
+- **Social Media:** Instagram: [@vvrhovnik](https://www.instagram.com/vvrhovnik/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -59,3 +68,6 @@
 - [Olympics.com — Vid Vrhovnik](https://www.olympics.com/en/athletes/vid-vrhovnik)
 - [NBC Olympics — Vid Vrhovnik](https://www.nbcolympics.com/athletes/vid-vrhovnik-37887)
 - [FIS — Tschagguns Slovenia Mixed Team History](https://www.fis-ski.com/nordic-combined/news/2024-25/tschagguns-slovenia-writes-mixed-team-history)
+- [Velenje Municipality](https://www.velenje.si/)
+- [Planica.si — Vrhovnik](https://www.planica.si/)
+- [Olympics Fandom — Vrhovnik](https://olympics.fandom.com/)

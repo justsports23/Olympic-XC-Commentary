@@ -46,6 +46,21 @@
 - Olympic debut at 22 with 13th place — strongest American individual result at these Games
 - Narrowly missed the 2022 Beijing team; used that as motivation
 - U.S. National Champion heading into the Olympics
+- Father Stephen (ski instructor), Mother Essi Kenttala (Finnish, from Rovaniemi, former elite swimmer) [NBC Olympics](https://www.nbcolympics.com/athletes/niklas-malacinski)
+- Hobbies: fishing, skateboarding [Steamboat Pilot](https://www.steamboatpilot.com/)
+- Education: Colorado Mountain College, attended Finnish sports academy age 13 [Nordic Combined USA](https://www.nordiccombinedusa.org/athletes/niklas-malacinski/)
+- Coaches: Truls Johansen (head), Christian Ingebrigtsen (jumping), Michael Ward (assistant) [Nordic Combined USA](https://www.nordiccombinedusa.org/athletes/niklas-malacinski/)
+- Quote: "I got to hold their medals. I think at that moment I was like, 'Oh, I want to do high-level sports.'" (on meeting Lodwick/Spillane/Demong at age 7) [NBC Olympics](https://www.nbcolympics.com/athletes/niklas-malacinski)
+
+## Personal Information
+- **Father:** Stephen Malacinski (ski instructor) [NBC Olympics](https://www.nbcolympics.com/athletes/niklas-malacinski)
+- **Mother:** Essi Kenttala (Finnish, from Rovaniemi, former elite swimmer) [NBC Olympics](https://www.nbcolympics.com/athletes/niklas-malacinski)
+- **Sister:** Annika Malacinski (U.S. Women's Nordic Combined team) [CNN](https://www.cnn.com/2026/02/10/sport/nordic-combined-malacinski-siblings-winter-olympics)
+- **Languages:** Finnish, English, German [Team USA](https://www.teamusa.com/profiles/niklas-malacinski)
+- **Education:** Colorado Mountain College; attended Finnish sports academy at age 13 [Nordic Combined USA](https://www.nordiccombinedusa.org/athletes/niklas-malacinski/)
+- **Hobbies:** Fishing, skateboarding [Steamboat Pilot](https://www.steamboatpilot.com/)
+- **Coaches:** Truls Johansen (head), Christian Ingebrigtsen (jumping), Michael Ward (assistant) [Nordic Combined USA](https://www.nordiccombinedusa.org/athletes/niklas-malacinski/)
+- **Social Media:** Instagram: [@niklas.malacinski](https://www.instagram.com/niklas.malacinski/) [Instagram](https://www.instagram.com/niklas.malacinski/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -62,3 +77,4 @@
 - [Steamboat Today — Olympian Shines](https://www.steamboattoday.com/news/steamboat-olympian-niklas-malacinski-shines-in-nordic-combined/)
 - [Nordic Combined USA — Ruka 2024](https://www.nordiccombinedusa.org/stories/ruka-2024/)
 - [Nordic Combined USA — US Nationals 2024](https://www.nordiccombinedusa.org/stories/us-nationals-2024/)
+- [Steamboat Pilot — Malacinski](https://www.steamboatpilot.com/)

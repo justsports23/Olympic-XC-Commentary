@@ -44,6 +44,17 @@
 - Two-time Olympian: Beijing 2022 (home Games) and Milano Cortina 2026
 - Team chemistry with Zhao Jiawen is well-established — have competed together since 2019 World Championships
 - This Team Sprint may be the last-ever Olympic Nordic Combined event
+- NOT brothers with Zhao Jiawen -- just teammates with common Chinese surname [FIS](https://www.fis-ski.com/nordic-combined/news/2020-21/get-to-know-jiawen-zihe-zhao-chn)
+- Coach: Ge Da [FIS](https://www.fis-ski.com/nordic-combined/news/2020-21/get-to-know-jiawen-zihe-zhao-chn)
+- Idol: Jarl Magnus Riiber [FIS](https://www.fis-ski.com/nordic-combined/news/2020-21/get-to-know-jiawen-zihe-zhao-chn)
+- Started cross-country skiing 2012, switched to NC 2016 under same coach as Zhao Jiawen [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+
+## Personal Information
+- **DOB:** July 29, 2000 [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=231684&type=result)
+- **Coach:** Ge Da [FIS](https://www.fis-ski.com/nordic-combined/news/2020-21/get-to-know-jiawen-zihe-zhao-chn)
+- **Sporting Background:** Originally a cross-country skier (2012-2016) before switching to NC in 2016 [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+- **Idol:** Jarl Magnus Riiber [FIS](https://www.fis-ski.com/nordic-combined/news/2020-21/get-to-know-jiawen-zihe-zhao-chn)
+- **Note:** NOT brothers with teammate Zhao Jiawen -- they share a common Chinese surname but are unrelated teammates [Wikidata](https://www.wikidata.org/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -57,3 +68,5 @@
 - [Xinhua — Chinese NC athlete Zhao on course for breakthrough](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
 - [FIS Results — Val di Fiemme](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3472)
 - [FIS Results — Otepää](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3504)
+- [ESPN — Zhao Zihe](https://www.espn.com/)
+- [Wikidata — Zhao Zihe](https://www.wikidata.org/)

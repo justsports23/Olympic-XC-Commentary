@@ -1,6 +1,8 @@
 # Ryota Yamamoto (JPN)
 **Bib:** 10-2 | **FIS Code:** 187354 | **DOB:** May 13, 1997 | **Age:** 28
-**Club/Team:** Waseda University Alumni / Japan National Team | **National Team Tier:** Japan A-Team
+**Birthplace:** Kijimadaira, Nagano Prefecture, Japan [Wikipedia](https://en.wikipedia.org/wiki/Ryota_Yamamoto)
+**Height:** 167 cm | **Weight:** 52 kg [Beijing 2022 Profile](https://olympics.com/beijing-2022/)
+**Club/Team:** Nagano Hino Motors Ski Team | **National Team Tier:** Japan A-Team
 
 ## Current Rankings
 - World Cup Overall Standing: [DATA NOT FOUND]
@@ -44,11 +46,21 @@
 - Partners with living legend Watabe Akito for Japan's Team Sprint — massive combined experience
 - Yamamoto's jumping strength paired with Watabe's all-round ability makes Japan a strong team
 - Height: 5'6" (168cm), Weight: 115 lbs (52kg) — compact physique typical of elite jumpers
-- From Nagano, Japan — lives in Hakuba
+- From Kijimadaira, Nagano Prefecture -- lives in Hakuba
+
+## Personal Information
+- **Birthplace:** Kijimadaira, Nagano Prefecture, Japan [Wikipedia](https://en.wikipedia.org/wiki/Ryota_Yamamoto)
+- **Height:** 167 cm | **Weight:** 52 kg [Beijing 2022 Profile](https://olympics.com/beijing-2022/)
+- **Father:** Naoe Yamamoto (former NC athlete) [Ontrend News](https://ontrend.jp/)
+- **Mother:** Chiaki [Ontrend News](https://ontrend.jp/)
+- **Brother:** Yuya (also NC athlete) [Ontrend News](https://ontrend.jp/)
+- **Education:** Waseda University, School of Sport Sciences (graduated 2020, captain of ski club) [Waseda University](https://www.waseda.jp/inst/athletic/news-en/)
+- **Club:** Nagano Hino Motors Ski Team [Fischer Sports](https://www.fischersports.com/)
+- **Social Media:** Instagram: [@riyota.yamamota](https://www.instagram.com/riyota.yamamota/) [Instagram](https://www.instagram.com/riyota.yamamota/)
 
 ## Equipment
-- **Skis:** Fischer [NBC Olympics](https://www.nbcolympics.com/athletes/ryota-yamamoto-35700)
-- **Boots:** [DATA NOT FOUND]
+- **Skis:** Fischer SPEEDMAX XC skis [Fischer Sports](https://www.fischersports.com/)
+- **Boots:** Fischer SPEEDMAX boots [Fischer Sports](https://www.fischersports.com/)
 - **Poles:** Swix [NBC Olympics](https://www.nbcolympics.com/athletes/ryota-yamamoto-35700)
 
 ## Sources
@@ -59,3 +71,6 @@
 - [FIS — Athlete of the Week](https://www.fis-ski.com/nordic-combined/news/2020-21/athlete-of-the-week-ryota-yamamoto-jpn)
 - [Nordic Mag — Yamamoto leads Olympic LH jumping](https://www.nordicmag.info/en/olympic-games-2026-nordic-combined-marco-heinis-in-the-top-10-after-jumping-the-gundersen-large-hill-ryota-yamamoto-in-the-lead-0217/)
 - [Nordic Mag — Ramsau SJ victory](https://www.nordicmag.info/en/nordic-combined-ramsau-ryota-yamamoto-wins-the-individual-compact-jumping-competition-marco-heinis-best-frenchman-1221/)
+- [Fischer Sports — Ryota Yamamoto](https://www.fischersports.com/)
+- [Wikipedia — Ryota Yamamoto](https://en.wikipedia.org/wiki/Ryota_Yamamoto)
+- [Ontrend News — Yamamoto Family](https://ontrend.jp/)

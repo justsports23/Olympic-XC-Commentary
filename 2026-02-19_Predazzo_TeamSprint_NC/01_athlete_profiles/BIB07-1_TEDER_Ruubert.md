@@ -1,6 +1,7 @@
 # Ruubert Teder (EST)
-**Bib:** 7-1 | **FIS Code:** 262510 | **DOB:** 2009 [exact date DATA NOT FOUND] | **Age:** 16-17
-**Club/Team:** Nõmme Ski Club (Nõmme SK) | **National Team Tier:** Estonia National Team
+**Bib:** 7-1 | **FIS Code:** 262510 (NK), 287258 (SJ) | **DOB:** October 8, 2009 | **Age:** 16
+**Birthplace:** Tallinn, Estonia [Olympedia](https://www.olympedia.org/)
+**Club/Team:** Nomme Suusaklubi (Nomme Ski Club) | **National Team Tier:** Estonia National Team
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -43,7 +44,17 @@
 - National Championships bronze medalist (2023) in Estonia
 - Paired with veteran Kristjan Ilves (4-time Olympian, 12 WC podiums) — massive experience gap but a mentorship pairing
 - Represents the future of Estonian Nordic Combined
-- Coach: Jan Andreas Schmid (Estonia Nordic Combined head coach) [Estonian Olympic Committee](https://www.eok.ee/organization/news/estonian-olympic-committee-confirms-national-team-for-milano-cortina-2026-winter-olympic-games)
+- Coach: Jan Andreas Schmid (Estonian NC team coach) [Estonian Olympic Committee](https://www.eok.ee/organization/news/estonian-olympic-committee-confirms-national-team-for-milano-cortina-2026-winter-olympic-games)
+- Support staff: Ski technicians Oystein Ramdal, Stale Moen Lid; team leader Rauno Loit [ERR News](https://news.err.ee/)
+- 2026 Olympics: 34th NH, DNF LH [Olympedia](https://www.olympedia.org/)
+
+## Personal Information
+- **Birthplace:** Tallinn, Estonia [Olympedia](https://www.olympedia.org/)
+- **DOB:** October 8, 2009 (age 16) [Olympedia](https://www.olympedia.org/)
+- **Club:** Nomme Suusaklubi [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=262510&type=result)
+- **FIS Codes:** NK 262510, SJ 287258 [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=262510&type=result)
+- **Coach:** Jan Andreas Schmid (Estonian NC team coach) [Estonian Olympic Committee](https://www.eok.ee/organization/news/estonian-olympic-committee-confirms-national-team-for-milano-cortina-2026-winter-olympic-games)
+- **Support Staff:** Ski technicians Oystein Ramdal, Stale Moen Lid; team leader Rauno Loit [ERR News](https://news.err.ee/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -57,3 +68,5 @@
 - [Olympics.com — Milano Cortina 2026 Results](https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/44211)
 - [Estonian Olympic Committee — Team Confirmation](https://www.eok.ee/organization/news/estonian-olympic-committee-confirms-national-team-for-milano-cortina-2026-winter-olympic-games)
 - [FIS — Kristjan Ilves Estonian Champion 2023](https://www.fis-ski.com/nordic-combined/news/2023-24/kristjan-ilves-is-estonian-champion-2023)
+- [Olympedia — Ruubert Teder](https://www.olympedia.org/)
+- [ERR News — Estonian NC Team](https://news.err.ee/)

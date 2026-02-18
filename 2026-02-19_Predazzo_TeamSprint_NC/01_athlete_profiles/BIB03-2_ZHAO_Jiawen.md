@@ -1,6 +1,7 @@
 # Zhao Jiawen (CHN)
 **Bib:** 3-2 | **FIS Code:** 231685 | **DOB:** January 16, 2001 | **Age:** 25
-**Club/Team:** Heilongjiang Province / Mudanjiang Team | **National Team Tier:** A-Team
+**Birthplace:** Mudanjiang, Heilongjiang Province, China [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+**Club/Team:** Heilongjiang Province / Mudanjiang Team / Puijon Hiihtoseura (trains in Finland) | **National Team Tier:** A-Team
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -46,7 +47,20 @@
 - Known for exceptional discipline — studies video footage of competitors and practices extra sessions [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
 - Originally from Mudanjiang, Heilongjiang Province
 - Long-standing partnership with Zhao Zihe — they have competed together since their careers began in Nordic Combined in 2016
-- Born January 16, 2001 — from cross-country skiing background transitioning to NC
+- Born January 16, 2001 -- from cross-country skiing background transitioning to NC
+- Won 3 golds at 2024 National Winter Games [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+- Won Finnish Summer Ski Jumping Championships [Grokipedia](https://grokipedia.com/)
+- Improved jump from 81m (Beijing 2022) to 102.5m (2024) [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+- Idol: Conor McGregor [Olympics Fandom](https://olympics.fandom.com/)
+- Quote: "I really like the feeling to fly. To move in the air, to feel the different currents, it's pure excitement." [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+
+## Personal Information
+- **Birthplace:** Mudanjiang, Heilongjiang Province, China [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+- **Mother:** Yuan Hongxia [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+- **Coaches:** Wang Zhiru (PE teacher), Yu Qingbao (Mudanjiang XC coach), Ge Da (NC team leader), Mika Kojonkoski (Finland international coach) [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+- **Training locations:** Mudanjiang, Chongli, Hokkaido, Finland [Xinhua](https://english.news.cn/20240131/51caa92c39644249b32d78f84276c348/c.html)
+- **Club (Finland):** Puijon Hiihtoseura (trains in Finland) [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=231685&type=result)
+- **Idol:** Conor McGregor [Olympics Fandom](https://olympics.fandom.com/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -64,3 +78,5 @@
 - [FIS Results — Ruka](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3474)
 - [FIS Results — Trondheim](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3482)
 - [FIS Results — Milano Cortina](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3534)
+- [Grokipedia — Zhao Jiawen](https://grokipedia.com/)
+- [Olympics Fandom — Zhao Jiawen](https://olympics.fandom.com/)

@@ -1,6 +1,7 @@
 # Johannes Lamparter (AUT)
-**Bib:** 14-2 | **FIS Code:** 209403 | **DOB:** November 8, 2001 | **Age:** 24
-**Club/Team:** Nordic Team Absam | **National Team Tier:** Austria A-Team
+**Bib:** 14-2 | **FIS Code:** 209403 (NK), 100965 (alternate) | **DOB:** November 8, 2001 | **Age:** 24
+**Birthplace:** Hall in Tirol, Tirol, Austria [Olympedia](https://www.olympedia.org/athletes/147869) | **Residence:** Rum near Innsbruck / Absam area, Tirol
+**Club/Team:** Nordic Team Absam | **Management:** JumpandReach (joined 2018) [JumpandReach](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en) | **National Team Tier:** Austria A-Team (OeSV)
 
 ## Current Rankings
 - World Cup Overall Standing: **Leading** (2025-2026 season, 43+ point lead) [FIS](https://www.fis-ski.com/nordic-combined/news/2025-26/lamparter-dominates-otepaeae-compact-to-extend-overall-lead)
@@ -45,12 +46,34 @@
 - Partners with Stefan Rettenegger (16 WC podiums, 0 wins) — Austria has enormous combined strength
 - Coached by Christoph Eugen; trained by Andi Felder since age 6 at Nordic Team Absam
 - Fischer skis, Leki poles
-- If Norway slips in jumping, Austria is the prime beneficiary — Lamparter can compete with Oftebro on the track
+- If Norway slips in jumping, Austria is the prime beneficiary -- Lamparter can compete with Oftebro on the track
+- First coach (from age 6): Andi Felder at Nordic Team Absam -- Felder proposed Lamparter try NC with cross-country skiing [JumpandReach](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- Graduated from Ski Gymnasium in Stams [JumpandReach](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- Awards: "Most likeable Nordic athlete in Austria" (public vote), "Goldene Teekanne", "Tyrol's Sportsman of the Year" (2 consecutive years) [JumpandReach](https://www.jumpandreach.com/overall-world-cup-victory-for-johannes-lamparter/?lang=en)
+- First Austrian to win the Nordic Combined Triple (Seefeld) [JumpandReach](https://www.jumpandreach.com/overall-world-cup-victory-for-johannes-lamparter/?lang=en)
+- Personal motto: "Nothing comes from nothing!" [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- Afraid of "that mom doesn't cook enough schnitzel :)" [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+
+## Personal Information
+- **Birthplace:** Hall in Tirol, Tirol, Austria [Olympedia](https://www.olympedia.org/athletes/147869)
+- **Residence:** Rum near Innsbruck / Absam area, Tirol [wiki-en.org](https://wiki-en.org/who-is-johannes-lamparter-freundin-lena-neuhauser-meet-the-olympian-on-instagram/)
+- **Education:** Graduated from Ski Gymnasium in Stams [JumpandReach](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- **Girlfriend:** Lena Neuhauser -- together about four years; also a skier; Instagram: @lena__neuhauser [wiki-en.org](https://wiki-en.org/who-is-johannes-lamparter-freundin-lena-neuhauser-meet-the-olympian-on-instagram/)
+- **Family:** Proud of "my environment -- my family, girlfriend and friends who always support me" [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- **Coaches:** Andi Felder (from age 6 at Nordic Team Absam); Christoph Eugen (current) [JumpandReach](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- **Hobbies:** Road cycling, golfing, mountaineering, weight lifting (described as second passion; "fascinated" since childhood) [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter), [JumpandReach](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- **Favorite Competition Venue:** Ruka [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- **Favorite Music:** "Not Afraid" by Eminem [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- **Favorite Drink:** Blackcurrant juice and Red Bull [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- **Personal Motto:** "Nothing comes from nothing!" [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- **Awards:** "Most likeable Nordic athlete in Austria" (public vote), "Goldene Teekanne", "Tyrol's Sportsman of the Year" (2 consecutive years) [JumpandReach](https://www.jumpandreach.com/overall-world-cup-victory-for-johannes-lamparter/?lang=en)
+- **Sponsors:** Red Bull, Fischer Sports, Leki, JumpandReach (management) [Red Bull](https://www.redbull.com/int-en/athlete/johannes-lamparter), [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- **Social Media:** Instagram: [@johannes_lamparter](https://www.instagram.com/johannes_lamparter/) (8,925 followers) [Instagram](https://www.instagram.com/johannes_lamparter/)
 
 ## Equipment
-- **Skis:** Fischer
-- **Boots:** [DATA NOT FOUND]
-- **Poles:** Leki
+- **Skis (XC):** Fischer SPEEDMAX 100HE SKATE PLUS 610 (warmer conditions) and SPEEDMAX 100HE SKATE PLUS 61K (soft snow) [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- **Boots:** Fischer SPEEDMAX 9 SKATE and SPEEDMAX 9 SKATE RL BOA [Fischer Sports](https://www.fischersports.com/athlete/johannes-lamparter)
+- **Poles:** Leki [Wikipedia](https://en.wikipedia.org/wiki/Johannes_Lamparter)
 
 ## Sources
 - [FIS Athlete Biography](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=209403&type=result)
@@ -62,3 +85,10 @@
 - [NBC Olympics — Austrian team](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-of-brothers-headline-race-for-nordic-combined-medals)
 - [Yahoo Sports — Oftebro beats Lamparter](https://sports.yahoo.com/articles/oftebro-beats-lamparter-again-olympic-142828511.html)
 - [Red Bull Athlete Profile](https://www.redbull.com/int-en/athlete/johannes-lamparter)
+- [Olympedia — Johannes Lamparter](https://www.olympedia.org/athletes/147869)
+- [Fischer Sports Athlete Page](https://www.fischersports.com/athlete/johannes-lamparter)
+- [JumpandReach — New Athlete Announcement](https://www.jumpandreach.com/johannes-lamparter-a-new-young-athlete-in-our-jumpandreach-team/?lang=en)
+- [JumpandReach — Overall World Cup Victory](https://www.jumpandreach.com/overall-world-cup-victory-for-johannes-lamparter/?lang=en)
+- [wiki-en.org — Lamparter Girlfriend](https://wiki-en.org/who-is-johannes-lamparter-freundin-lena-neuhauser-meet-the-olympian-on-instagram/)
+- [Ski Austria Profile](https://www.skiaustria.at/de/teams/johannes-lamparter)
+- [Instagram: @johannes_lamparter](https://www.instagram.com/johannes_lamparter/)

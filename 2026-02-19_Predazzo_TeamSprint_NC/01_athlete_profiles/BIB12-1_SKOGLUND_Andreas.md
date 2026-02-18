@@ -1,5 +1,6 @@
 # Andreas Skoglund (NOR)
-**Bib:** 12-1 | **FIS Code:** 189544 | **DOB:** March 22, 2001 | **Age:** 24
+**Bib:** 12-1 | **FIS Code:** 189544 (NK), 100566 (alternate) | **DOB:** March 22, 2001 | **Age:** 24
+**Birthplace:** Molde area, Norway [Wikipedia](https://en.wikipedia.org/wiki/Andreas_Skoglund) | **Residence:** Trondheim (training base) [Wikipedia](https://en.wikipedia.org/wiki/Andreas_Skoglund)
 **Club/Team:** Molde og Omegn IF | **National Team Tier:** Norway National Team
 
 ## Current Rankings
@@ -48,6 +49,15 @@
 - From Molde — based in Trondheim for training
 - Disqualified at Ruka for suit violation — showed equipment compliance challenges early in season
 - Quote after Seefeld podium: "It was really fun, it was only my second podium, so I'm really, really happy"
+- World Cup debut: March 2019, Holmenkollen (37th place) [Wikipedia](https://en.wikipedia.org/wiki/Andreas_Skoglund)
+- Won Team Sprint gold at 2026 Olympics with anchor-leg sprint finish [Finnish Ski Association](https://hiihtoliitto.fi/en/skoglund-sprinted-nordic-combined-gold-for-norway/)
+- 2021 Junior Worlds Mixed Team gold: outsprinted Stefan Rettenegger on anchor leg [Finnish Ski Association](https://hiihtoliitto.fi/en/skoglund-sprinted-nordic-combined-gold-for-norway/)
+- Quote: "I was sure I'd be able to beat him [Rettenegger] in the final sprint, so I just had to follow him." (after 2021 Junior Worlds) [Finnish Ski Association](https://hiihtoliitto.fi/en/skoglund-sprinted-nordic-combined-gold-for-norway/)
+
+## Personal Information
+- **Birthplace:** Molde area, Norway [Wikipedia](https://en.wikipedia.org/wiki/Andreas_Skoglund)
+- **Residence:** Trondheim (training base) [Wikipedia](https://en.wikipedia.org/wiki/Andreas_Skoglund)
+- **Brother:** Aleksander Skoglund (born 6 May 1999), also a Nordic Combined skier; Aleksander was Overall Continental Cup (COC) winner in 2023-24 season [FIS Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -61,3 +71,6 @@
 - [FIS — Otepää WC podium](https://www.fis-ski.com/nordic-combined/news/2025-26/einar-luraas-oftebro-takes-thrilling-maiden-world-cup-win-in-otepaeae)
 - [FIS — COC Klingenthal victory](https://www.fis-ski.com/nordic-combined/news/2024-25/coc-andreas-skoglund-wins-individual-compact)
 - [Nordic Mag — Seefeld coverage](https://www.nordicmag.info/en/nordic-combined-seefeld-triple-stefan-rettenegger-after-the-compact-jump-the-best-cross-country-skiers-well-placed-0131/)
+- [FIS — Sibling Rivalries in Nordic Combined](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+- [Finnish Ski Association — Team Sprint Gold](https://hiihtoliitto.fi/en/skoglund-sprinted-nordic-combined-gold-for-norway/)
+- [ESPN — Oftebro Wins 2nd Gold](https://www.espn.com/olympics/story/_/id/47954586/norway-oftebro-wins-2nd-olympic-gold-nordic-combined)

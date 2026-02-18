@@ -1,5 +1,6 @@
 # Akito Watabe (JPN)
 **Bib:** 10-1 | **FIS Code:** 89882 | **DOB:** May 26, 1988 | **Age:** 37
+**Height:** 173 cm | **Weight:** 60 kg [Goldwin](https://www.goldwin.co.jp/)
 **Club/Team:** Kitano Construction Corp. Ski Club | **National Team Tier:** Japan A-Team
 
 ## Current Rankings
@@ -43,11 +44,24 @@
 - Brother Yoshito Watabe also competes in Nordic Combined
 - Born in Hakuba, Nagano — site of the 1998 Winter Olympics
 - Educated at Waseda University; competes for Kitano Construction Corp. Ski Club
-- This Team Sprint could be his final competitive event ever — the last Nordic Combined event at the last Olympics featuring the sport
+- This Team Sprint could be his final competitive event ever -- the last Nordic Combined event at the last Olympics featuring the sport
+- Started NC age 12; wrist fracture in 2006 shifted focus to XC [weltski.de](https://www.weltski.de/)
+- Hobbies: Backcountry skiing [Fischer Sports](https://www.fischersports.com/)
+
+## Personal Information
+- **Height:** 173 cm | **Weight:** 60 kg [Goldwin](https://www.goldwin.co.jp/)
+- **Wife:** Yurie Watabe (freestyle skier, 2018 Olympian) [Wikipedia](https://en.wikipedia.org/wiki/Akito_Watabe)
+- **Son:** Born November 2020 [Wikipedia](https://en.wikipedia.org/wiki/Akito_Watabe)
+- **Brother:** Yoshito Watabe (also NC athlete, Waseda University graduate) [Wikipedia](https://en.wikipedia.org/wiki/Akito_Watabe)
+- **Education:** Waseda University, Faculty of Sport Sciences (graduated 2011) [Waseda University](https://www.waseda.jp/inst/athletic/news-en/)
+- **Hobbies:** Backcountry skiing [Fischer Sports](https://www.fischersports.com/)
+- **Sporting Background:** Started NC age 12; wrist fracture in 2006 shifted focus to XC [weltski.de](https://www.weltski.de/)
+- **Sponsors:** Goldwin, Fischer [Goldwin](https://www.goldwin.co.jp/), [Fischer Sports](https://www.fischersports.com/)
+- **Social Media:** Instagram: [@wtbakt](https://www.instagram.com/wtbakt/), Twitter: [@WTBAKT](https://twitter.com/WTBAKT) [Fischer Sports](https://www.fischersports.com/)
 
 ## Equipment
-- **Skis:** [DATA NOT FOUND]
-- **Boots:** [DATA NOT FOUND]
+- **Skis:** Fischer SPEEDMAX XC skis [Fischer Sports](https://www.fischersports.com/)
+- **Boots:** Fischer SPEEDMAX boots [Fischer Sports](https://www.fischersports.com/)
 - **Poles:** [DATA NOT FOUND]
 
 ## Sources
@@ -58,3 +72,6 @@
 - [Nordic Mag — Retirement announcement](https://www.nordicmag.info/en/nordic-combined-japanese-legend-akito-watabe-to-retire-at-the-end-of-the-season-1023/)
 - [FIS — Last Worlds for Watabe](https://www.fis-ski.com/nordic-combined/news/2024-25/last-worlds-for-watabe-as-five-time-medalist-dreams-of-perfect-end-to-career)
 - [Waseda University — Flag-bearer announcement](https://www.waseda.jp/inst/athletic/news-en/2022/02/08/24697/)
+- [Fischer Sports — Akito Watabe](https://www.fischersports.com/)
+- [Goldwin — Watabe](https://www.goldwin.co.jp/)
+- [weltski.de — Watabe Profile](https://www.weltski.de/)

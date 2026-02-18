@@ -1,6 +1,8 @@
 # Kristjan Ilves (EST)
 **Bib:** 7-2 | **FIS Code:** 161576 | **DOB:** June 10, 1996 | **Age:** 29
-**Club/Team:** Elva Skiclub | **National Team Tier:** Estonia National Team (Senior)
+**Birthplace:** Tartu, Estonia | **Hometown:** Elva | **Current Residence:** Trondheim, Norway [Grokipedia](https://grokipedia.com/)
+**Height:** 177 cm | **Weight:** 61 kg [Team Ilves](https://www.teamilves.com/)
+**Club/Team:** Elva Suusaklubi | **National Team Tier:** Estonia National Team (Senior)
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -51,11 +53,24 @@
 - Trained with Team Norway since 2019 — access to elite training environment
 - Born in Tartu, Estonia — Red Bull sponsored athlete
 - Swix equipment ambassador [Swix](https://swixsport.com/us/article/ambassadors/kristjan-ilves)
+- Quote: "You can fly like a bird between the sky and the ground." [ERR News](https://news.err.ee/)
+
+## Personal Information
+- **Birthplace:** Tartu, Estonia [Olympedia](https://www.olympedia.org/)
+- **Hometown:** Elva, Estonia; current residence Trondheim, Norway [Grokipedia](https://grokipedia.com/)
+- **Height:** 177 cm | **Weight:** 61 kg [Team Ilves](https://www.teamilves.com/)
+- **Father:** Andrus Ilves (NC coach, Team Ilves director) [Team Ilves](https://www.teamilves.com/)
+- **Brother:** Andreas Ilves (also NC athlete for Estonia) [ERR News](https://news.err.ee/)
+- **Hobbies:** Historical documentaries, disc golf, Asian cuisine, hip hop music [Team Ilves](https://www.teamilves.com/)
+- **Nicknames:** "King of Peedu", "Junge" [Grokipedia](https://grokipedia.com/)
+- **Languages:** Estonian, English, Finnish [Team Ilves](https://www.teamilves.com/)
+- **Sponsors:** Red Bull, Swix, Mariine Auto, Subaru, Named Sport, Bliz, Jaagor, Kinetixx, CFS [Team Ilves](https://www.teamilves.com/)
+- **Social Media:** Instagram: [@kristjanilves](https://www.instagram.com/kristjanilves/) [Instagram](https://www.instagram.com/kristjanilves/)
 
 ## Equipment
 - **Skis/Wax:** Swix (ambassador) [Swix](https://swixsport.com/us/article/ambassadors/kristjan-ilves)
+- **Poles:** Swix Triac 4.0 Aero [Swix](https://swixsport.com/us/article/ambassadors/kristjan-ilves)
 - **Boots:** [DATA NOT FOUND]
-- **Poles:** [DATA NOT FOUND]
 
 ## Sources
 - [FIS Athlete Biography](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=NK&competitorid=161576)
@@ -68,3 +83,6 @@
 - [FIS — Ilves joins Team Norway](https://www.fis-ski.com/nordic-combined/news/2019-20/kristjan-ilves-joins-forces-with-team-norway)
 - [FIS — Ilves spinal injury](https://www.fis-ski.com/nordic-combined/news/2019-20/kristjan-ilves-sidelined-with-spinal-injury)
 - [Swix — Kristjan Ilves Ambassador](https://swixsport.com/us/article/ambassadors/kristjan-ilves)
+- [Team Ilves Website](https://www.teamilves.com/)
+- [Grokipedia — Kristjan Ilves](https://grokipedia.com/)
+- [ERR News — Ilves Feature](https://news.err.ee/)

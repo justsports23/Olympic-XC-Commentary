@@ -1,6 +1,8 @@
 # Jens Luraas Oftebro (NOR)
-**Bib:** 12-2 | **FIS Code:** 182614 | **DOB:** July 21, 2000 | **Age:** 25
-**Club/Team:** Norwegian National Team | **National Team Tier:** Norway A-Team
+**Full Name:** Jens Christian Luraas Oftebro
+**Bib:** 12-2 | **FIS Code:** 182614 (NK), 100474 (alternate) | **DOB:** July 21, 2000 | **Age:** 25
+**Birthplace:** Baerum, Norway [Wikipedia](https://en.wikipedia.org/wiki/Jens_Lur%C3%A5s_Oftebro)
+**Club/Team:** IL Jardar [Wikipedia](https://en.wikipedia.org/wiki/Jens_Lur%C3%A5s_Oftebro) | **National Team Tier:** Norway A-Team
 
 ## Current Rankings
 - World Cup Overall Standing: Leading / 2nd (2025-2026 season, ~979 points)
@@ -45,11 +47,25 @@
 - LH gold (Feb 17): Finished 5th in jump, overcame 22-second deficit, won by 5.9s over Lamparter [NBC Olympics](https://www.nbcolympics.com/news/norways-jens-luraas-oftebro-goes-2-2-after-climbing-nordic-combined-large-hill-gold)
 - From Oslo; older brother Einar also competes — "The Oftebrothers"
 - At 25, potentially has many more years at the top — but NC is leaving the Olympics after 2026
-- This Team Sprint could be the FINAL Nordic Combined event in Olympic history — Oftebro could claim a 4th gold
+- This Team Sprint could be the FINAL Nordic Combined event in Olympic history -- Oftebro could claim a 4th gold
+- Einar Oftebro on Jens: "Jens has done a really good job for many years, but I know we wouldn't be at this level without each other." [FIS Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+- Race profile: "solid on the jump and merciless on the skis" -- the "new face of Norwegian Nordic combined" [NordicMag](https://www.nordicmag.info/en/olympic-games-2026-nordic-combined-who-is-jens-luraas-oftebro-the-double-olympic-champion-0217/)
+
+## Personal Information
+- **Full Name:** Jens Christian Luraas Oftebro [Wikipedia](https://en.wikipedia.org/wiki/Jens_Lur%C3%A5s_Oftebro)
+- **Birthplace:** Baerum, Norway [Wikipedia](https://en.wikipedia.org/wiki/Jens_Lur%C3%A5s_Oftebro)
+- **Club:** IL Jardar [Wikipedia](https://en.wikipedia.org/wiki/Jens_Lur%C3%A5s_Oftebro)
+- **Brother:** Einar Luraas Oftebro (born 1998/99, age 26), also NC skier; known together as "The Oftebrothers"; Einar recently returned from nearly two years with serious injury [FIS Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+- **Family:** The brothers trained together since childhood at their family cabin [FIS Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+- **Hobbies:** Ski mountaineering and hiking; listens to comfort music or Hit Mix depending on mood; afraid of wasps (due to allergic reaction) [Fischer Sports](https://www.fischersports.com/athlete/jens-luraas-oftebro)
+- **Favorite Drink:** Coca Cola [Fischer Sports](https://www.fischersports.com/athlete/jens-luraas-oftebro)
+- **Personal Motto:** "What doesn't kill you makes you stronger!" [Fischer Sports](https://www.fischersports.com/athlete/jens-luraas-oftebro)
+- **Education:** Proud of "his achievements in sports and education" [Fischer Sports](https://www.fischersports.com/athlete/jens-luraas-oftebro)
+- **Sponsors:** Fischer Sports [Fischer Sports](https://www.fischersports.com/athlete/jens-luraas-oftebro)
 
 ## Equipment
-- **Skis:** [DATA NOT FOUND]
-- **Boots:** [DATA NOT FOUND]
+- **Skis (XC):** Fischer SPEEDMAX 100HE SKATE PLUS 610 (warmer conditions) and SPEEDMAX 100HE SKATE PLUS 61K (soft snow) [Fischer Sports](https://www.fischersports.com/athlete/jens-luraas-oftebro)
+- **Boots:** Fischer SPEEDMAX 9 SKATE and SPEEDMAX 9 SKATE RL BOA [Fischer Sports](https://www.fischersports.com/athlete/jens-luraas-oftebro)
 - **Poles:** [DATA NOT FOUND]
 
 ## Sources
@@ -60,3 +76,6 @@
 - [NBC Olympics — Double gold](https://www.nbcolympics.com/news/norways-jens-luraas-oftebro-goes-2-2-after-climbing-nordic-combined-large-hill-gold)
 - [Nordic Mag — Who is Oftebro](https://www.nordicmag.info/en/olympic-games-2026-nordic-combined-who-is-jens-luraas-oftebro-the-double-olympic-champion-0217/)
 - [FIS — NH Gold report](https://www.fis-ski.com/nordic-combined/news/2025-26/Jens-luraas-oftebro-holds-off-lamparter-for-gundersen-normal-hill-gold)
+- [Fischer Sports Athlete Page](https://www.fischersports.com/athlete/jens-luraas-oftebro)
+- [FIS — Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+- [Wikipedia — Einar Luraas Oftebro](https://en.wikipedia.org/wiki/Einar_Lur%C3%A5s_Oftebro)

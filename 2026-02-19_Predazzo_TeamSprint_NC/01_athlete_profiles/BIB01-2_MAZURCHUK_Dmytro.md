@@ -1,5 +1,6 @@
 # Dmytro Mazurchuk (UKR)
-**Bib:** 1-2 | **FIS Code:** 193561 | **DOB:** January 19, 1999 | **Age:** 27
+**Bib:** 1-2 | **FIS Code:** 193561 (NK) | **DOB:** January 19, 1999 | **Age:** 27
+**Birthplace:** Kremenets, Ukraine | **Height:** 173 cm | **Weight:** 57 kg [ESPN](https://www.espn.com/olympics/athlete/_/id/4685069/dmytro-mazurchuk)
 **Club/Team:** [DATA NOT FOUND] | **National Team Tier:** Ukraine National Team
 
 ## Current Rankings
@@ -48,6 +49,11 @@
 - University Games bronze medalist — first Ukrainian Nordic Combined medal at international multi-sport games
 - Born in Kremenets, Ukraine
 
+## Personal Information
+- **Birthplace:** Kremenets, Ukraine [Wikipedia](https://en.wikipedia.org/wiki/Dmytro_Mazurchuk)
+- **Height:** 173 cm | **Weight:** 57 kg [ESPN](https://www.espn.com/olympics/athlete/_/id/4685069/dmytro-mazurchuk)
+- **Background:** Former ski jumper who switched to Nordic Combined in 2018 [Weltski.de](https://www.weltski.de/person/sp47/nordische-kombination/pe486062/dmytro-mazurchuk/)
+
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
 - **Boots:** [DATA NOT FOUND]
@@ -61,3 +67,5 @@
 - [Weltski.de — Mazurchuk Profile](https://www.weltski.de/person/sp47/nordische-kombination/pe486062/dmytro-mazurchuk/)
 - [Mezha.net — Ukrainian NC at 2026 Olympics](https://mezha.net/eng/bukvy/ukrainian-nordic-combined-athletes-compete-at-2026-winter-olympics/)
 - [Beijing 2022 Olympic Profile](https://olympics.com/beijing-2022/olympic-games/en/results/nordic-combined/athlete-profile-n1042080-dmytro-mazurchuk.htm)
+- [ESPN — Dmytro Mazurchuk](https://www.espn.com/olympics/athlete/_/id/4685069/dmytro-mazurchuk)
+- [the-sports.org — Mazurchuk](https://www.the-sports.org/dmytro-mazurchuk-nordic-combined-spf298259.html)

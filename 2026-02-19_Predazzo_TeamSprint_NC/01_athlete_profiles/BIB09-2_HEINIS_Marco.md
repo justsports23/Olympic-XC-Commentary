@@ -1,5 +1,6 @@
 # Marco Heinis (FRA)
 **Bib:** 9-2 | **FIS Code:** 218411 | **DOB:** April 14, 2003 | **Age:** 22
+**Birthplace:** Pontarlier, Doubs, France (Franche-Comte) [the-sports.org](https://www.the-sports.org/)
 **Club/Team:** Olympic Mont d'Or (Massif Jurassien) | **National Team Tier:** France A-Team (coached by Ludovic Bourgeois)
 
 ## Current Rankings
@@ -47,6 +48,11 @@
 - Strong jumping ability makes him a valuable Team Sprint partner — can build a lead in the jumping phase
 - France A-Team member (alongside Mattéo Baud, Gaël Blondeau, Laurent Muhlethaler, Edgar Vallet)
 - Pairs with Mael Tyrode for France's Team Sprint
+- Coach: Etienne Gouy, Alexandre Mougin [NordicMag](https://www.nordicmag.info/)
+
+## Personal Information
+- **Birthplace:** Pontarlier, Doubs, France (Franche-Comte) [the-sports.org](https://www.the-sports.org/)
+- **Coaches:** Etienne Gouy (head), Alexandre Mougin (jumping) [NordicMag](https://www.nordicmag.info/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -62,3 +68,5 @@
 - [Nordic Mag — Trondheim WC top 10 in jumping](https://www.nordicmag.info/en/nordic-combined-trondheim-marco-heinis-in-the-top-10-of-a-pocket-jump-dominated-by-an-austrian-quadruple-1205/)
 - [Nordic Mag — Olympic LH jumping top 10](https://www.nordicmag.info/en/olympic-games-2026-nordic-combined-marco-heinis-in-the-top-10-after-jumping-the-gundersen-large-hill-ryota-yamamoto-in-the-lead-0217/)
 - [Equipe de France — Marco Heinis](https://www.equipedefrance.com/athlete/marco-heinis)
+- [the-sports.org — Marco Heinis](https://www.the-sports.org/)
+- [Wikipedia — Marco Heinis](https://en.wikipedia.org/wiki/Marco_Heinis)

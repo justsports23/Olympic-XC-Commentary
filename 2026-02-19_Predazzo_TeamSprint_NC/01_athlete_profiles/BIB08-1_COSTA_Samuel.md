@@ -1,6 +1,8 @@
 # Samuel Costa (ITA)
-**Bib:** 8-1 | **FIS Code:** 124114 | **DOB:** November 30, 1992 | **Age:** 33
-**Club/Team:** Fiamme Oro | **National Team Tier:** Italy National Team
+**Bib:** 8-1 | **FIS Code:** 124114 | **DOB:** April 30, 1992 | **Age:** 33
+**Birthplace:** Bolzano, South Tyrol, Italy [Wikipedia](https://en.wikipedia.org/wiki/Samuel_Costa_(skier))
+**Height:** [UNVERIFIED -- conflicting: 164 cm or 184 cm] [the-sports.org](https://www.the-sports.org/)
+**Club/Team:** GS Fiamme Gialle | **National Team Tier:** Italy National Team
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -53,7 +55,17 @@
 - Val di Fiemme/Predazzo is his HOME venue — World Cup debut here, podium here
 - 11th and 12th at Ramsau in late January 2026 were his best results in nearly 3 years [SportNews.bz](https://en.sportnews.bz/artikel/wintersport/nordische-kombination/die-naechste-starke-costa-vorstellung)
 - From Bolzano (South Tyrol) — competing at home Olympics is deeply personal
-- Competes for Fiamme Oro (Italian military sports group)
+- Competes for GS Fiamme Gialle (Italian military sports group)
+- Hobbies: Cycled 1,140km from Val Gardena to Amalfi Coast with Kostner in 2020 [FIS](https://www.fis-ski.com/nordic-combined/news/2025-26/samuel-costa-the-passion-for-the-sport-is-still-the-same-)
+- Coach: Danny Winckelmann (2021/22) [FIS](https://www.fis-ski.com/nordic-combined/news/2025-26/samuel-costa-the-passion-for-the-sport-is-still-the-same-)
+- Quote: "If I look back, I realize that I was a completely different person back then. The sport was my identity..." [FIS](https://www.fis-ski.com/nordic-combined/news/2025-26/samuel-costa-the-passion-for-the-sport-is-still-the-same-)
+
+## Personal Information
+- **Birthplace:** Bolzano, South Tyrol, Italy [Wikipedia](https://en.wikipedia.org/wiki/Samuel_Costa_(skier))
+- **Height:** [UNVERIFIED -- conflicting data: 164 cm vs 184 cm] [the-sports.org](https://www.the-sports.org/)
+- **Club:** GS Fiamme Gialle [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=NK&competitorid=124114)
+- **Coach:** Danny Winckelmann (2021/22) [FIS](https://www.fis-ski.com/nordic-combined/news/2025-26/samuel-costa-the-passion-for-the-sport-is-still-the-same-)
+- **Hobbies:** Cycling (cycled 1,140km from Val Gardena to Amalfi Coast with Kostner in 2020) [FIS](https://www.fis-ski.com/nordic-combined/news/2025-26/samuel-costa-the-passion-for-the-sport-is-still-the-same-)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -68,3 +80,4 @@
 - [Wikipedia — Samuel Costa](https://en.wikipedia.org/wiki/Samuel_Costa_(skier))
 - [SportNews.bz — Costa strong performance](https://en.sportnews.bz/artikel/wintersport/nordische-kombination/die-naechste-starke-costa-vorstellung)
 - [Yahoo Sports — Seefeld 2017 podium](https://www.yahoo.com/news/rydzek-edges-frenzel-2nd-straight-nordic-combined-win-152846535.html)
+- [the-sports.org — Samuel Costa](https://www.the-sports.org/)

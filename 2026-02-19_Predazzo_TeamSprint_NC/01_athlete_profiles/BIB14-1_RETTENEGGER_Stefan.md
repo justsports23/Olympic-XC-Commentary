@@ -1,6 +1,9 @@
 # Stefan Rettenegger (AUT)
-**Bib:** 14-1 | **FIS Code:** 196343 | **DOB:** February 3, 2002 | **Age:** 23
-**Club/Team:** [DATA NOT FOUND] | **National Team Tier:** Austria National Team
+**Bib:** 14-1 | **FIS Code:** 196343 (NK), 100666 (alternate) | **DOB:** February 3, 2002 | **Age:** 24 (as of Feb 2026)
+**Birthplace:** Schwarzach im Pongau, Salzburger Land, Austria [Wikipedia](https://en.wikipedia.org/wiki/Stefan_Rettenegger)
+**Height:** 172 cm | **Weight:** 58 kg [Olympics.com](https://www.olympics.com/en/athletes/stefan-rettenegger)
+**Club/Team:** TSU St. Veit im Pongau [Wikipedia](https://en.wikipedia.org/wiki/Stefan_Rettenegger) | **Nickname (with brother):** "The Rettis" [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+**National Team Tier:** Austria A-Team (OeSV)
 
 ## Current Rankings
 - World Cup Overall Standing: 8th (pre-Olympic ranking, 2025-2026 season)
@@ -47,6 +50,25 @@
 - Brother Thomas Rettenegger also competes (won mass start events this season)
 - Partners with Johannes Lamparter (double Olympic silver medalist) — Austria is a major medal threat
 - From Schwarzach im Pongau, Austria
+- Currently studying nutritional science alongside elite sport [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- Role model: Roger Federer -- "an extremely good sportsman and still down to earth" [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- 2020 Winter Youth Olympic Games: Gold in individual and mixed team events [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- 2020 Junior World Championships: Won team classification alongside brother Thomas [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- Austrian Summer Champion: Won mass start title in Bischofshofen [NordicMag](https://www.nordicmag.info/en/nordic-combined-bischofshofen-stefan-rettenegger-austrian-summer-mass-start-champion-1004/)
+- Quote: "He [Thomas] was the one who started with ski jumping and what my brother did, I wanted to do too. He was always the bigger, better one." [FIS Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+- Quote: "If we both have a great day it is better, even if I am second." [FIS Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+
+## Personal Information
+- **Birthplace:** Schwarzach im Pongau, Salzburger Land, Austria [Wikipedia](https://en.wikipedia.org/wiki/Stefan_Rettenegger)
+- **Residence:** Pongau area, Salzburger Land [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- **Height:** 172 cm | **Weight:** 58 kg [Olympics.com](https://www.olympics.com/en/athletes/stefan-rettenegger)
+- **Club:** TSU St. Veit im Pongau [Wikipedia](https://en.wikipedia.org/wiki/Stefan_Rettenegger)
+- **Education:** Currently studying nutritional science alongside elite sport [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- **Brother:** Thomas Rettenegger (born 5 February 2000, age 25), also NC skier; Thomas studies computer science; they were junior team world champions together in 2020 [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger), [FIS Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+- **Hobbies:** Fitness and healthy nutrition as central life values; both brothers train twice daily, nearly year-round with one week annual break [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- **Role Model:** Roger Federer [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- **Sponsors:** Felbermayr (brand ambassador since 2023; sky-blue Felbermayr-labeled helmets), Atomic, OeSV/Ski Austria Nordic Combined [Felbermayr](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger), [Atomic](https://www.atomic.com/en/athletes/stefan-rettenegger)
+- **Social Media:** Instagram: [@stefanrettenegger](https://www.instagram.com/stefanrettenegger/) [Instagram](https://www.instagram.com/stefanrettenegger/)
 
 ## Equipment
 - **Skis:** Atomic [Atomic](https://www.atomic.com/en/athletes/stefan-rettenegger)
@@ -63,3 +85,9 @@
 - [Nordic Mag — Ruka XC mass start dominance](https://www.nordicmag.info/en/nordic-combined-ruka-stefan-rettenegger-dominates-the-cross-country-mass-start-edgar-vallet-best-frenchman-1130/)
 - [Atomic — Stefan Rettenegger](https://www.atomic.com/en/athletes/stefan-rettenegger)
 - [NBC Olympics — Austrian team preview](https://www.nbcolympics.com/news/austrian-johannes-lamparter-pair-of-brothers-headline-race-for-nordic-combined-medals)
+- [Olympedia — Stefan Rettenegger](https://www.olympedia.org/athletes/139878)
+- [Felbermayr — Brand Ambassadors](https://www.felbermayr.cc/en/news/detail/brand-ambassadors-thomas-and-stefan-rettenegger)
+- [FIS — Sibling Rivalries](https://www.fis-ski.com/nordic-combined/news/2024-25/-we-can-both-be-great-sibling-rivalries-add-spice-to-nordic-combined-circuit)
+- [NordicMag — Austrian Summer Champion](https://www.nordicmag.info/en/nordic-combined-bischofshofen-stefan-rettenegger-austrian-summer-mass-start-champion-1004/)
+- [Wikipedia — Thomas Rettenegger](https://en.wikipedia.org/wiki/Thomas_Rettenegger)
+- [Instagram: @stefanrettenegger](https://www.instagram.com/stefanrettenegger/)

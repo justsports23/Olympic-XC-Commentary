@@ -1,5 +1,5 @@
 # Oleksandr Shumbarets (UKR)
-**Bib:** 1-1 | **FIS Code:** [DATA NOT FOUND] | **DOB:** [DATA NOT FOUND] | **Age:** [DATA NOT FOUND]
+**Bib:** 1-1 | **FIS Code:** 220159 (NK) | **DOB:** September 17, 2001 | **Age:** 24
 **Club/Team:** [DATA NOT FOUND] | **National Team Tier:** Ukraine National Team
 
 ## Current Rankings
@@ -40,6 +40,9 @@
 - Historic moment in November 2024 at Ruka when he and Mazurchuk became the first two Ukrainian athletes to both qualify in the same World Cup Nordic Combined event
 - Earned first career World Cup points at Ruka 2024
 - The Team Sprint at Predazzo represents potentially the last-ever Olympic Nordic Combined event
+
+## Personal Information
+- **Social Media:** Instagram: [@_shumbarets_](https://www.instagram.com/_shumbarets_/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]

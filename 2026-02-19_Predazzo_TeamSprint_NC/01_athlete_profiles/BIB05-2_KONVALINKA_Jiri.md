@@ -1,6 +1,6 @@
 # Jiri Konvalinka (CZE)
-**Bib:** 5-2 | **FIS Code:** 213443 | **DOB:** November 27, 2004 | **Age:** 21
-**Club/Team:** Ski Klub Harrachov | **National Team Tier:** Czech National Team
+**Bib:** 5-2 | **FIS Code:** 213443 (NK), 204031 (SJ) | **DOB:** November 27, 2004 | **Age:** 21
+**Club/Team:** Mesto Harrachov | **National Team Tier:** Czech National Team
 
 ## Current Rankings
 - FIS Points: 91 points (2025-2026)
@@ -43,10 +43,19 @@
 - Represents the next generation of Czech Nordic Combined alongside veteran Vytrval
 - Youth Cup winner from Harrachov — strong development trajectory
 - 24th at Ruka World Cup earlier this season shows improving form
-- Instagram: [@jirikonvalinka](https://www.instagram.com/jirikonvalinka/)
+- Instagram: [@jirikonvalinka](https://www.instagram.com/jirikonvalinka/) (2,475 followers)
+- Coach: Marek Sablatura [Czech Ski Federation](https://www.czech-ski.com/)
+- 2025-26 WC standing: 36th overall with 91 points [FIS](https://www.fis-ski.com/DB/nordic-combined/cup-standings.html)
+- Youth career at OPA Games and FIS Youth Cup [Olympics.com](https://www.olympics.com/en/athletes/jiri-konvalinka)
+
+## Personal Information
+- **FIS Codes:** NK 213443, SJ 204031 [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=213443&type=result)
+- **Club:** Mesto Harrachov [FIS](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=nk&competitorid=213443&type=result)
+- **Coach:** Marek Sablatura [Czech Ski Federation](https://www.czech-ski.com/)
+- **Social Media:** Instagram: [@jirikonvalinka](https://www.instagram.com/jirikonvalinka/) (2,475 followers) [Instagram](https://www.instagram.com/jirikonvalinka/)
 
 ## Equipment
-- **Skis:** [DATA NOT FOUND]
+- **Skis:** Fischer [Fischer Sports](https://www.fischersports.com/)
 - **Boots:** [DATA NOT FOUND]
 - **Poles:** [DATA NOT FOUND]
 
@@ -57,3 +66,5 @@
 - [FIS Results — Ruka 2025-2026](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3474)
 - [FIS Results — Trondheim 2025-2026](https://www.fis-ski.com/DB/general/results.html?sectorcode=NK&raceid=3482)
 - [FIS Youth Cup Harrachov](https://www.fis-ski.com/en/nordic-combined/nordic-combined-news-multimedia/news-multimedia/news/2020-21/successful-fis-youth-cup-weekend-in-harrachov-cze)
+- [Fischer Sports](https://www.fischersports.com/)
+- [Czech Ski Federation](https://www.czech-ski.com/)

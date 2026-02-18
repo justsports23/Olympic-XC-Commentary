@@ -1,6 +1,6 @@
 # Kacper Jarzabek (POL)
-**Bib:** 2-1 | **FIS Code:** 261078 | **DOB:** April 11, 2006 | **Age:** 19
-**Club/Team:** TS Wisła Zakopane | **National Team Tier:** Poland National Team
+**Bib:** 2-1 | **FIS Code:** 261078 (NK), 229860/8323 (SJ) | **DOB:** April 11, 2006 | **Age:** 19
+**Club/Team:** TS Wisla Zakopane | **National Team Tier:** Poland National Team
 
 ## Current Rankings
 - FIS Distance Points: [DATA NOT FOUND]
@@ -40,9 +40,15 @@
 - Also registered as a ski jumper with FIS, demonstrating dual-discipline capability
 - Youth Olympic Games experience (10th at Gangwon 2024) showed early potential
 - From Zakopane, Poland's traditional ski jumping heartland
+- 2023 Polish Senior Summer Championship: Gold [sport.olza.pl](https://sport.olza.pl/)
+- Possible brother Dawid Jarzabek (FIS NK: 165880) [UNVERIFIED]
+
+## Personal Information
+- **Hometown:** Zakopane area, Poland
+- **Social Media:** Instagram: [@jarzabek.kacper](https://www.instagram.com/jarzabek.kacper/) [olimpijski.pl](https://olimpijski.pl/olimpijczycy/kacper-jarzabek/)
 
 ## Equipment
-- **Skis:** [DATA NOT FOUND]
+- **Skis:** Fischer [Fischer Sports](https://www.fischersports.com/)
 - **Boots:** [DATA NOT FOUND]
 - **Poles:** [DATA NOT FOUND]
 
@@ -53,3 +59,6 @@
 - [Olympics.com — Kacper Jarzabek](https://www.olympics.com/en/athletes/kacper-jarzabek)
 - [Polski Komitet Olimpijski](https://olimpijski.pl/olimpijczycy/kacper-jarzabek/)
 - [Nordic Combined at 2024 Winter Youth Olympics — Wikipedia](https://en.wikipedia.org/wiki/Nordic_combined_at_the_2024_Winter_Youth_Olympics)
+- [Olympedia — Kacper Jarzabek](https://www.olympedia.org/)
+- [sport.olza.pl — Polish Championships](https://sport.olza.pl/)
+- [olimpijski.pl — Jarzabek Profile](https://olimpijski.pl/olimpijczycy/kacper-jarzabek/)

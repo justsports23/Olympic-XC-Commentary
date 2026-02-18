@@ -1,5 +1,6 @@
 # Mael Tyrode (FRA)
 **Bib:** 9-1 | **FIS Code:** 194080 | **DOB:** July 31, 2000 | **Age:** 25
+**Birthplace:** Pontarlier, Doubs, France [NordicMag](https://www.nordicmag.info/) | **Hometown:** Les Fourgs [NordicMag](https://www.nordicmag.info/)
 **Club/Team:** Ski Club Les Fourgs (Massif Jurassien) | **National Team Tier:** France B-Team (coached by Nicolas Martin)
 
 ## Current Rankings
@@ -50,6 +51,15 @@
 - From Pontarlier, Franche-Comté — all three French Olympic NC athletes from the same Jura region
 - 17th at Olympics exceeded expectations for someone primarily competing at Continental Cup level
 - Pairs with Marco Heinis for France's Team Sprint
+- Education: Studying STAPS (Sport Sciences) [Bourgogne-Franche-Comte Sportive](https://sports.bourgognefranchecomte.fr/)
+- Coach: Etienne Gouy (head), Alexandre Mougin (jumping) [NordicMag](https://www.nordicmag.info/)
+
+## Personal Information
+- **Birthplace:** Pontarlier, Doubs, France [NordicMag](https://www.nordicmag.info/)
+- **Hometown:** Les Fourgs [NordicMag](https://www.nordicmag.info/)
+- **Education:** Studying STAPS (Sport Sciences) [Bourgogne-Franche-Comte Sportive](https://sports.bourgognefranchecomte.fr/)
+- **Coaches:** Etienne Gouy (head), Alexandre Mougin (jumping) [NordicMag](https://www.nordicmag.info/)
+- **Social Media:** Instagram: [@mael_tyro2](https://www.instagram.com/mael_tyro2/) [Instagram](https://www.instagram.com/mael_tyro2/)
 
 ## Equipment
 - **Skis:** [DATA NOT FOUND]
@@ -64,3 +74,4 @@
 - [Nordic Mag — Ruka Continental Cup 6th](https://www.nordicmag.info/en/nordic-combined-mael-tyrodes-big-comeback-a-stunning-6th-place-in-the-ruka-continental-cup-1213/)
 - [Nordic Mag — Summer Grand Prix team sprint podium](https://www.nordicmag.info/en/nordic-combined-edgar-vallet-and-mael-tyrode-on-home-soil-finish-third-in-the-team-sprint-at-the-summer-grand-prix-in-chaux-neuve-0831/)
 - [Sports BFC — "La force tranquille"](https://sports.bourgognefranchecomte.fr/index.php/mael-tyrode-la-force-tranquille/)
+- [Bourgogne-Franche-Comté Sportive](https://sports.bourgognefranchecomte.fr/)
