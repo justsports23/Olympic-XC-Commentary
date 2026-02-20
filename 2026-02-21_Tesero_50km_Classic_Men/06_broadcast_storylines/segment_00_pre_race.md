@@ -223,55 +223,69 @@ In difficult snow conditions near 0 degrees Celsius, even world-class athletes h
 
 ---
 
-# STORYLINE 5: [START LIST INTEGRATION ZONE]
-
-## Template — Athlete Introductions and Favorites Preview
-
-*This section will be populated with specific athlete data once the official start list is available.*
+# STORYLINE 5: THE ATHLETES — FAVORITES, DARK HORSES, AND STORIES THAT MATTER
 
 ### Pre-Race Favorites Block
 
-> **BROADCASTER READ:** "Let's meet the men who will contest this 50 kilometres today. [NUMBER] athletes from [NUMBER] nations are on the start list. Here are the names you need to know..."
+> **BROADCASTER READ:** "Let's meet the men who will contest this 50 kilometres today. 65 athletes from 33 nations are on the start list. From Norway to Haiti, from Kazakhstan to Colombia — the breadth of this field is remarkable. Here are the names you need to know..."
 
-#### Favorite #1: [NAME] ([NATION])
-- **Current Form:** [Recent results from 2025-26 season]
-- **Why They Win:** [2-3 sentences on strengths matching this race]
-- **Key Stat:** [One standout statistic]
-- **Hook Quote:** "[Quote from pre-race press conference or recent interview]"
+#### Favorite #1: Johannes Hoesflot KLAEBO (NOR) — BIB 1
+- **Current Form:** 5 gold medals at these Games (skiathlon, sprint, 10km, relay, team sprint). 116+ World Cup victories. Record 5th Tour de Ski title. Leading all World Cup standings.
+- **Why He Wins:** Unmatched finishing kick in a mass start. Won the 50km Classic at both Oslo 2024 and Lahti 2025. Won the 50km Mass Start Free at WCH Trondheim 2025 in 1:57:47.1. If the race comes together for a sprint finish, nobody beats this man.
+- **Key Stat:** Attempting a 6th gold medal at a single Winter Olympics — never done before in any sport. Career Olympic total would reach 11 golds.
+- **The 50km Ghost:** DNF in Beijing 2022. Disqualified at WCH Oberstdorf 2021 for contact with Bolshunov after crossing the line first. The Olympic 50km is the one prize that has eluded him. [Source: NBC Olympics](https://www.nbcolympics.com/news/50km-race-johannes-hoesflot-klaebo-could-sweep-mens-cross-country-skiing-olympic-gold)
 
-#### Favorite #2: [NAME] ([NATION])
-- **Current Form:** [Recent results]
-- **Why They Win:** [Reasoning]
-- **Key Stat:** [Standout stat]
+> **BROADCASTER READ:** "Johannes Klaebo has won everything there is to win in cross-country skiing — except an Olympic 50km gold. He DNFed in Beijing. He was disqualified in Oberstdorf. This race has haunted him. Today, in the final event of these Games, he gets one last chance to slay that ghost."
 
-#### Favorite #3: [NAME] ([NATION])
-- **Current Form:** [Recent results]
-- **Why They Win:** [Reasoning]
-- **Key Stat:** [Standout stat]
+#### Favorite #2: Martin Loewstroem NYENGET (NOR) — BIB 3
+- **Current Form:** Won both World Cup classic races this season (10km Classic at Ruka and Oberhof, the latter by a devastating 13.8 seconds). Relay gold and skiathlon bronze at these Games.
+- **Why He Podiums:** Arguably the strongest pure classic distance skier in the field. Won the 50km Classic at Oslo in 2022. Pushed Klaebo to within 0.5 seconds in the Lahti 50km Classic. Described as "one of the few skiers capable of attacking early and sustaining a solo effort."
+- **Key Stat:** First WC victory — the Oslo 50km Classic in March 2022 — came two weeks after his father's death. He dedicated the win to his late father. [Source: InsideTheGames](https://www.insidethegames.biz/articles/1120173/nyenget-first-cross-country-world-cup)
+
+> **BROADCASTER READ:** "Nyenget is the man the Norwegians fear most — because he is Norwegian. His classic technique is the best in the world. If he attacks on the climbs and breaks away, even Klaebo may not be able to follow. His first World Cup victory came at the 50km Classic in Oslo, two weeks after burying his father. Today, at 33, in his first Olympics, the 50km classic is the race he was born to run."
+
+#### Favorite #3: Iivo NISKANEN (FIN) — BIB 7
+- **Current Form:** Won the Falun 10km Classic by 12.9 seconds over Klaebo in January. Won the Distance Crystal Globe last season. Classic form is peaking at exactly the right time.
+- **Why He Podiums:** Defending Olympic 50km champion from PyeongChang 2018. 3 Olympic golds, 5 Olympic medals total. Patient racing style suits 50km perfectly. After Finland's bitter 4th-place relay — "a bitter taste" — he races with redemption on his mind.
+- **Key Stat:** Beat Klaebo by 12.9 seconds at Falun in pure classic technique — weeks before the Olympics. [Source: All Things Nordic](https://all-things-nordic.com/2025/02/15/fis-cross-country-skiing-world-cup-falun-niskanen-wins-mens-interval-start-classic/)
+
+> **BROADCASTER READ:** "Iivo Niskanen is the defending Olympic 50km champion. In PyeongChang, he sat in the pack for 40 kilometres, changed to fresh skis, and pulled away for gold. He is 34 years old. This may be his last Olympics. And three weeks ago, he beat Klaebo by 13 seconds in pure classic technique. When Niskanen is on his classic skis, he is the most dangerous man alive."
+
+#### Also Watch: Emil IVERSEN (NOR) — BIB 4
+
+> **BROADCASTER READ:** "Emil Iversen was dropped from the Norwegian World Cup squad earlier this season. His response? He won his way back through the Norwegian Cup, stood in front of the cameras, and said: 'Now they can't avoid me.' He is the reigning 50km Classic World Champion from Oberstdorf 2021. He is 34 years old. This is his last dance. And the 50km classic is the one race where Iversen believes he can beat anyone — including Klaebo." [Source: NordicMag](https://www.nordicmag.info/en/cross-country-skiing-now-they-cant-avoid-me-not-selected-for-ruka-emil-iversen-responds-in-the-norwegian-cup-1128/)
 
 ### Dark Horse Block
 
 > **BROADCASTER READ:** "But this is the 50 kilometres. This event has a long history of surprises. Here are two athletes who could shock the world today..."
 
-#### Dark Horse #1: [NAME] ([NATION])
-- **Why Watch:** [Specific evidence for upset potential]
+#### Dark Horse #1: Savelii KOROSTELEV (AIN) — BIB 12
+- **Why Watch:** The 22-year-old Russian, competing as a neutral athlete, was 4th in the Olympic skiathlon — agonizingly close to a medal. 4th on the Alpe Cermis final climb at Tour de Ski. His progressive trajectory — getting stronger as races get longer — is the calling card of a born distance racer. Won double gold at the 2022 Junior World Championships before being locked out of international competition for nearly three years.
+- **Controversy:** Barents Observer investigation revealed links to Russia's armed forces, adding political scrutiny to his participation. [Source: Barents Observer](https://www.thebarentsobserver.com/news/olympic-hopeful-savelii-korostelev-has-link-to-russias-armed-forces/441946)
 
-#### Dark Horse #2: [NAME] ([NATION])
-- **Why Watch:** [Specific evidence for upset potential]
+#### Dark Horse #2: Mathis DESLOGES (FRA) — BIB 6
+- **Why Watch:** Three silver medals at these Games (skiathlon, 10km free, relay) — the most decorated non-Norwegian at Milano Cortina 2026. The 23-year-old Frenchman was a U23 World Champion 18 months ago. Now he is the revelation of the Olympics. His broken medal from over-celebrating the skiathlon is the symbol of a man riding the wave of his life. Can the fairytale extend to a 4th medal?
+- **The Risk:** Has never raced a 50km at the elite level. Classic technique over marathon distance is uncharted territory. [Source: Nordic Mag](https://www.nordicmag.info/en/olympic-games-2026-cross-country-skiing-the-revelation-of-these-olympic-games-2026-mathis-desloges-silver-medal-in-the-individual-skate-event-as-seen-from-abroad-0213/)
 
 ### Key Storylines to Watch
 
-1. **[STORYLINE — e.g., "Klaebo's Quest for Dominance"]:** [Description — if Klaebo is entered, he arrives having won 5 of 5 events at these Games and 10 career Olympic golds. Can he make it 6 for 6?] [Source: NBC Olympics](https://www.nbcolympics.com/news/who-leads-medal-count-2026-winter-olympics)
-2. **[STORYLINE — e.g., "National Rivalry"]:** [Description]
-3. **[STORYLINE — e.g., "Veteran's Last Stand"]:** [Description]
+1. **Klaebo's Quest — 6 for 6:** Klaebo has won all 5 events he has entered at these Games. A 6th gold would be the most by any athlete at a single Winter Olympics — ever. His career total would reach 11 Olympic golds, pulling clear as the all-time Winter Olympic leader. But the 50km has been his Olympic ghost — DNF Beijing, DQ Oberstdorf. This is redemption. [Source: NBC Olympics](https://www.nbcolympics.com/news/50km-race-johannes-hoesflot-klaebo-could-sweep-mens-cross-country-skiing-olympic-gold)
+
+2. **Pellegrino's Farewell — BIB 10:** Federico Pellegrino, Italy's sprint legend, races his final event on home snow. Four Olympic medals. A World Championship gold. Over 60 World Cup podiums. Retirement date: February 22 — tomorrow. The man who wept at the relay bronze will ski 50km through the Italian Dolomites one last time. The Tesero crowd will be on its feet from start to finish. *"The ultimate goal of my career,"* he called these home Games. [Source: Olympics.com](https://www.olympics.com/en/news/exclusive-federico-pellegrino-cross-country-ski-mico-2026-ultimate-goal)
+
+3. **Savart's Story — BIB 62:** Stevenson Savart, Haiti's first Olympic cross-country skier, born in Delmas, adopted at age 3 by a French family in the Vosges mountains. His skiathlon finish drew one of the loudest ovations of the Games. The 50km will be his fourth and final event. *"Athletes from so-called 'exotic' countries can do winter sports without being laughed at. We have to be taken seriously."* [Source: Olympics.com](https://www.olympics.com/en/milano-cortina-2026/news/haiti-stevenson-savart-milano-cortina-2026)
+
+4. **The Moch Brothers Birthday Special — BIBs 16 & 38:** Jakob Elias Moch (BIB 38) turns 20 years old today — on race day. He is a CU Boulder freshman racing alongside his older brother Friedrich (BIB 16, age 25). Two golds at the Youth Olympics. 21st on his World Cup debut. The youngest athlete in the field, racing the longest race in Olympic cross-country skiing on his birthday. [Source: CU Buffs](https://cubuffs.com/news/2026/1/20/skiing-cu-freshman-jakob-moch-named-to-german-olympic-team-for-2026-winter-games)
+
+5. **Ben Ogden — Sprint King Meets the Marathon (BIB 27):** The Vermont knitter who ended America's 50-year men's XC medal drought with sprint silver now attempts the 50km — 2.5 times the longest race he has ever competed in. Can the man who finished 0.87 seconds behind Klaebo in a 3-minute sprint survive a 2-hour marathon? [Source: NBC Olympics](https://www.nbcolympics.com/news/ben-ogden-ends-united-states-50-year-medal-drought-cross-country-silver-sprint)
 
 ### Wax Report Integration
 
-> **BROADCASTER READ:** "We are hearing from the wax cabins that conditions today are [DESCRIPTION]. Snow temperature is [TEMP], air temperature is [TEMP]. The [NATION] team has gone with [WAX/SKIN choice]. The [NATION] team has gone the other way..."
+> **BROADCASTER READ:** "We are hearing from the wax cabins that conditions today are critical for the wax-versus-skin decision. With 65 athletes grinding over the course for two-plus hours, conditions will change. The Norwegian team historically has the best wax technicians in the sport — that advantage compounds over 50km. Watch to see who has chosen skin skis for the security of consistent grip, and who has gambled on traditional kick wax for the speed advantage."
 
 ### Start Positioning Preview
 
-> **BROADCASTER READ:** "In a mass start, the seeded athletes will line up at the front. Watch for [NAME] and [NAME] to position themselves in the first two rows. The key is the first 200 metres — getting through the first corners without tangling poles or losing position."
+> **BROADCASTER READ:** "In a mass start, the seeded athletes will line up at the front. Watch for Klaebo in BIB 1 and Amundsen in BIB 2 to position themselves in the first two rows. Niskanen, the defending champion in BIB 7, will be there too. The key is the first 200 metres — getting through the first corners without tangling poles or losing position. With 65 athletes funnelling into narrow tracks, the first 30 seconds will be chaos."
 
 ---
 

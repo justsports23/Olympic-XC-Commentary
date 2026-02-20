@@ -1,59 +1,45 @@
 # Conditions & Wax — Men's 50km Mass Start Classic
-## Milano Cortina 2026 Olympic Winter Games
-**Venue:** Tesero Cross-Country Skiing Stadium, Val di Fiemme, Trentino, Italy
-**Date:** Saturday, 21 February 2026 | **Start Time:** 11:00 CET
 
----
+## Race Day: Saturday, 21 February 2026 | Start Time: 11:00 CET
 
-## Weather Conditions
+## Weather Forecast
+*[DATA NOT FOUND — forecast data to be populated closer to race time or on race day]*
 
-> **Status:** [TO BE POPULATED] — Conditions will be updated on race day and in the days leading up to the event.
+### Typical February Conditions at Tesero (830m elevation)
+- **Air Temperature:** Typically -5°C to +5°C in late February
+- **Snow Temperature:** Typically -8°C to -2°C at 11:00 start
+- **Humidity:** Variable — valley location can trap moisture
+- **Wind:** Generally sheltered in the valley, but exposed sections on climbs may have wind
+- **Precipitation:** February can bring fresh snow or clear, cold conditions
+- **Sun Exposure:** By late February, increasing solar angle can affect snow conditions, particularly on south-facing sections during the 2+ hour race
 
-| Field | Detail |
-|-------|--------|
-| **Air Temperature (Start)** | [TO BE POPULATED] |
-| **Air Temperature (Finish, est.)** | [TO BE POPULATED] |
-| **Snow Temperature** | [TO BE POPULATED] |
-| **Humidity** | [TO BE POPULATED] |
-| **Wind Speed & Direction** | [TO BE POPULATED] |
-| **Sky Conditions** | [TO BE POPULATED] |
-| **Precipitation** | [TO BE POPULATED] |
-| **Snow Condition** | [TO BE POPULATED] |
+## Snow Conditions
+- **Snowmaking:** The venue has artificial snowmaking systems, ensuring consistent base coverage
+- **Grooming:** State-of-the-art grooming equipment; venue is known for excellent classic track preparation
+- **Classic Tracks:** Fresh-set classic tracks for the race; track quality is historically very good at this venue
 
----
+## Wax Considerations for Classic Technique
 
-## February Weather in Val di Fiemme — General Expectations
+### Key Factors
+1. **50km duration** — Grip wax must last 2+ hours of skiing, which is the paramount wax challenge. Klister or hardwax selection must be durable.
+2. **Mass start format** — No opportunity to re-wax during the race. Wax choice is a one-shot decision.
+3. **Temperature changes** — Over a 2+ hour race starting at 11:00, conditions can change significantly as the day warms. Wax teams must anticipate conditions at the finish, not just the start.
+4. **Elevation variation** — The ~150m of elevation variation on the course means conditions may differ between valley floor sections (warmer) and forested climbs (cooler/shaded).
 
-Val di Fiemme in mid-to-late February typically experiences:
+### Wax Strategy Notes
+- **Grip zone wax** is the critical decision — the balance between grip on climbs and glide on flats is the defining wax challenge of a 50km classic race
+- **Glide wax** on tips and tails is relatively standard but structure choice (fine vs. coarse) depends heavily on snow crystal type and moisture content
+- **Durability over 50km** favors conservative, harder grip wax choices that may sacrifice some initial performance for longevity
+- Teams with the best wax technicians (typically Norway, Sweden, Finland, and the Italian home team) have a meaningful advantage in a 50km classic race
 
-- **Air temperatures:** Ranging from approximately -5C to +5C, depending on sun exposure and time of day. Morning starts can be cold; temperatures may rise during the 2+ hour race duration.
-- **Snow temperatures:** Often slightly below freezing at 900m elevation in February, but warm spells can push snow temperatures near or above 0C, particularly in afternoon sun.
-- **Snow conditions:** Typically firm, machine-groomed artificial/natural snow mix. Val di Fiemme has snowmaking capabilities. Late February can bring variable conditions — cold mornings with warming trends.
-- **Sunshine:** February days in the Dolomite valleys can be sunny with significant solar radiation, which affects both snow transformation and athlete hydration/heat management over 50km.
-- **Wind:** Generally sheltered in the valley, but open sections of the course may experience light to moderate breezes.
+### Historical Wax Notes from Val di Fiemme
+- The venue's reliable artificial snow base combined with potential natural snow overlays can create variable conditions
+- Late-season sun in February can cause rapid snow transformation on exposed sections
+- The valley floor location can create localized temperature inversions affecting wax performance
 
----
-
-## Wax Considerations
-
-> **Status:** [TO BE POPULATED] — Specific wax recommendations will depend on race-day conditions.
-
-### Classic Wax Factors for 50km
-
-- **Kick Wax / Grip Zone:** The 50km classic demands reliable kick wax that lasts the entire race distance (~2+ hours of skiing). Wax durability is paramount. Service teams will need to choose between:
-  - Hard wax layers for cold, dry conditions
-  - Klister for warm, wet, or icy transformed snow
-  - Skin skis as an alternative to traditional wax — increasingly common in the World Cup and may be used by some athletes
-- **Glide Wax:** Fluorocarbon wax regulations (FIS ban on high-fluorocarbon wax since 2023-24 season) affect glide preparation. Teams will use compliant glide waxes.
-- **Temperature Transitions:** With an 11:00 start and a ~2+ hour race, conditions may change significantly during the event. Snow that is firm and cold at the start can become wet and slow by the finish, especially on sun-exposed sections. Teams must anticipate this transition.
-- **Wax Zones:** Athletes may have access to designated wax zones on the course where service personnel can apply fresh kick wax during the race (subject to race rules — to be confirmed for this event).
-
-### Skin Skis vs. Traditional Wax
-
-The use of skin skis (skis with mohair or synthetic grip strips instead of kick wax) has become increasingly prevalent in World Cup classic racing. For a 50km race, the reliability advantage of skin skis is significant — no risk of kick wax wearing off. However, traditional waxed skis can be faster when the wax is perfectly matched to conditions. This strategic choice will be a key storyline.
-
----
+## Race Duration Estimate
+Based on the 2013 WCH 50km Classical at this venue (won by Johan Olsson in 2:10:41.4), expect a winning time in the range of **2:05:00 - 2:15:00** depending on conditions, field dynamics, and course configuration.
 
 ## Sources
-- Weather data to be sourced from race-day reports
-- [FIS Fluorocarbon Wax Ban Information](https://www.fis-ski.com/)
+- Historical race data from [FIS Nordic World Ski Championships 2013 — Men's 50km Classical](https://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_2013_%E2%80%93_Men's_50_kilometre_classical)
+- Venue info from [Visit Fiemme — Cross-Country Skiing](https://www.visitfiemme.it/en/activities/skiing/cross-country-skiing)

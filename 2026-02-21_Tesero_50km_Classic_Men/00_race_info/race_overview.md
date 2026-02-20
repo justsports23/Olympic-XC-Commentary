@@ -1,72 +1,89 @@
 # Race Overview — Men's 50km Mass Start Classic
-## Milano Cortina 2026 Olympic Winter Games
-
----
 
 ## Event Details
+- **Full Event Name:** Men's 50km Mass Start Classic — Cross-Country Skiing
+- **Italian:** 50 km tecnica classica mass start uomini
+- **French:** 50 km classique départ en ligne hommes
+- **Competition Tier:** 2026 Milano Cortina Winter Olympic Games
+- **Document Code:** CCSM50KMMS------------FNL-000100--_N59A v1.0
 
-| Field | Detail |
-|-------|--------|
-| **Full Event Name** | Cross-Country Skiing — Men's 50km Mass Start Classic |
-| **Competition Tier** | Milano Cortina 2026 Olympic Winter Games |
-| **Date** | Saturday, 21 February 2026 |
-| **Start Time** | 11:00 CET (UTC+1) |
-| **Venue** | Tesero Cross-Country Skiing Stadium |
-| **City** | Tesero, Val di Fiemme, Trentino |
-| **Country** | Italy |
-| **Discipline** | Cross-Country Skiing — Distance |
-| **Distance** | 50 km |
-| **Technique** | Classic |
-| **Format** | Mass Start |
-| **Competition ID** | [AWAITING FIS ASSIGNMENT] |
+## Venue
+- **Venue Name:** Tesero Cross-Country Skiing Stadium (Centro Fondo Lago di Tesero / Cross Country and Biathlon Center Fabio Canal)
+- **Location:** Lago di Tesero, Val di Fiemme, Trentino-Alto Adige, Italy
+- **Coordinates:** 46°16'58"N, 11°31'25"E
+- **Elevation:** 830m above sea level
+- **Spectator Capacity:** 15,000
 
----
+## Schedule
+- **Date:** Saturday, 21 February 2026
+- **Start Time:** 11:00 (local time, CET / UTC+1)
 
-## Format Description
+## Format
+- **Discipline:** Distance
+- **Technique:** Classic
+- **Format:** Mass Start
+- **Distance:** 50km
+- **Course:** Multiple laps of the Lago di Tesero course complex (exact lap configuration TBC based on Olympic course layout)
 
-The Men's 50km Mass Start Classic is a mass start distance race. All competitors start simultaneously from a common start line and race 50 kilometers using the classic technique (diagonal stride, double pole, herringbone — no skating). The first athlete to cross the finish line wins.
+## Start List Summary
+- **Total Entries:** 65 athletes
+- **Nations Represented:** 30+ nations
+- **Bib 1 (top seed):** Johannes Hoesflot Klaebo (NOR)
 
-This is the longest individual event in the Olympic cross-country skiing program and represents the ultimate test of endurance, classic technique, and tactical acumen in the sport.
+### Nations on Start List
+| Nation | Athletes | Bib Numbers |
+|--------|----------|-------------|
+| NOR | 4 | 1, 2, 3, 4 |
+| FRA | 4 | 6, 8, 17, 23 |
+| FIN | 4 | 7, 14, 21, 37 |
+| USA | 3 | 5, 27, 39 |
+| ITA | 3 | 10, 11, 24 |
+| GER | 3 | 15, 16, 38 |
+| SWE | 3 | 13, 20, 30 |
+| CZE | 3 | 18, 34, 42 |
+| CAN | 2 | 19, 31 |
+| GBR | 2 | 9, 25 |
+| EST | 2 | 22, 33 |
+| SUI | 2 | 26, 36 |
+| JPN | 2 | 28, 35 |
+| SLO | 2 | 40, 41 |
+| LAT | 2 | 43, 57 |
+| UKR | 2 | 44, 54 |
+| ROU | 2 | 45, 52 |
+| KAZ | 2 | 50, 51 |
+| HUN | 2 | 58, 65 |
+| AIN | 1 | 12 |
+| POL | 1 | 29 |
+| IRL | 1 | 32 |
+| SVK | 1 | 48 |
+| AUS | 1 | 49 |
+| CHN | 1 | 53 |
+| COL | 1 | 55 |
+| BUL | 1 | 56 |
+| THA | 1 | 59 |
+| CHI | 1 | 60 |
+| LTU | 1 | 61 |
+| HAI | 1 | 62 |
+| BOL | 1 | 63 |
+| CRO | 1 | 64 |
+| ISL | 1 | 46 |
+| ARG | 1 | 47 |
 
----
+## Race Significance
+This is the **final cross-country skiing event** of the 2026 Milano Cortina Olympic program — the traditional marathon distance that serves as the ultimate test of endurance in Nordic skiing. The 50km mass start classic is the most prestigious distance event in the sport, often referred to as the "marathon of the north."
 
-## Event Significance
+This is the **first time** the Winter Olympics has used the Tesero/Val di Fiemme venue for cross-country skiing. However, the venue is extremely well-known to athletes as the host of the annual Tour de Ski finale and multiple FIS Nordic World Ski Championships (1991, 2003, 2013).
 
-- **The Marathon Event:** The 50km is the flagship endurance event in men's cross-country skiing, analogous to the marathon in athletics. It demands exceptional aerobic capacity, fueling strategy, and mental fortitude over approximately two hours of racing.
-- **Traditional Finale:** The men's 50km has historically been the final event on the men's cross-country skiing program at the Olympic Winter Games, serving as the grand finale and culmination of the competition.
-- **One of the Most Prestigious Events in Cross-Country Skiing:** Winning the Olympic 50km is considered one of the highest achievements in the sport. The event's history stretches back to the first Winter Olympics in 1924 (as a distance event, though the exact distance and format have varied over the decades).
-- **Classic Technique:** The 2026 edition is contested in the classic technique, which rewards athletes with refined traditional skiing mechanics — particularly strong diagonal stride on climbs and efficient double poling on flats and downhills.
-- **Mass Start Dynamics:** The mass start format introduces tactical elements — drafting, positioning, pack dynamics, and timing of breakaway attempts — that differ significantly from interval start racing.
-
----
-
-## Olympic Program Context
-
-The men's cross-country skiing program at Milano Cortina 2026 includes:
-
-| Date | Event |
-|------|-------|
-| [DATA NOT FOUND] | Skiathlon |
-| [DATA NOT FOUND] | Sprint |
-| [DATA NOT FOUND] | 20km Individual |
-| [DATA NOT FOUND] | Team Sprint |
-| [DATA NOT FOUND] | 4x10km Relay |
-| **21 February 2026** | **50km Mass Start Classic** |
-
-> Note: The full Olympic cross-country schedule should be confirmed via the official Milano Cortina 2026 website.
-
----
-
-## Venue Information
-
-The cross-country skiing events for Milano Cortina 2026 are held at the **Tesero Cross-Country Skiing Stadium** in the **Val di Fiemme** (Fiemme Valley) in Trentino, Italy. Val di Fiemme is one of the most storied cross-country skiing venues in the world, having hosted multiple FIS Nordic World Ski Championships and serving as the traditional finale venue for the Tour de Ski.
-
-- **Elevation:** Approximately 900m above sea level
-- **Region:** Trentino-Alto Adige, northeastern Italy
-- **Historical Pedigree:** FIS Nordic World Ski Championships host in 1991, 2003, 2013, and 2025; annual Tour de Ski finale venue
-
----
+## Key Pre-Race Storylines
+1. **Klaebo's quest for completeness** — Johannes Hoesflot Klaebo (BIB 1) has won virtually everything in cross-country skiing but the Olympic 50km. Can he cap his career with the marathon gold?
+2. **Norwegian depth** — Four Norwegians in the top 4 bibs. Can the rest of the world break the Norwegian stranglehold?
+3. **French breakthrough** — Mathis Desloges (BIB 6) has already won three silver medals at these Games. Can the 23-year-old handle the 50km?
+4. **Niskanen's classic mastery** — Iivo Niskanen (BIB 7) is the reigning classic distance king. At 34, this may be his last Olympic 50km.
+5. **Home crowd factor** — Italian athletes Pellegrino (BIB 10), Barp (BIB 11), and Dapra (BIB 24) race in front of a home crowd at a venue they know well.
+6. **Sprint stars in the marathon** — Several sprint-oriented athletes (Pellegrino, Hakola, Ogden) face the ultimate endurance test.
 
 ## Sources
-- [Milano Cortina 2026 Official Website](https://www.milanocortina2026.olympics.com/)
+- [Milano Cortina 2026 — Tesero Cross-Country Skiing Stadium](https://www.olympics.com/en/milano-cortina-2026/venues/tesero-cross-country-skiing-stadium)
 - [FIS Cross-Country](https://www.fis-ski.com/DB/cross-country/)
+- [Fiemme World Cup — Cross-Country Stadium](https://www.fiemmeworldcup.com/en/Winter-Olympic-Games-2026/Cross-country-stadium)
+- Start list document: CCSM50KMMS------------FNL-000100--_N59A v1.0, created Fri 20 Feb 2026 17:42

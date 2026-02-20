@@ -189,36 +189,47 @@ At 830m altitude, breathing cold, dry mountain air for two hours takes a toll on
 
 ---
 
-# STORYLINE 5: [START LIST INTEGRATION ZONE]
-
-## Template — The Final Battle
-
-*This section will be populated with specific athlete data and real-time race observations.*
+# STORYLINE 5: THE FINAL BATTLE — MEDALS ON THE LINE
 
 ### The Medal Situation (~40-45km)
 
-> **BROADCASTER READ:** "With [DISTANCE] kilometres to go, here is where we stand. This is the Olympic 50 kilometres, and the medals will be decided in the next [TIME] minutes."
+> **BROADCASTER READ:** "With 5 to 10 kilometres to go, here is where we stand. This is the Olympic 50 kilometres, and the medals will be decided in the next 15 to 20 minutes."
 
-#### Current Race Status
-| Position | Bib | Name | Nation | Gap | Assessment |
-|----------|-----|------|--------|-----|------------|
-| 1 | [BIB] | [NAME] | [NAT] | — | [Strength of position] |
-| 2 | [BIB] | [NAME] | [NAT] | +[X]s | [Closing? Holding? Fading?] |
-| 3 | [BIB] | [NAME] | [NAT] | +[X]s | [Medal threat?] |
-| 4 | [BIB] | [NAME] | [NAT] | +[X]s | [Sprinting for bronze?] |
-| 5 | [BIB] | [NAME] | [NAT] | +[X]s | [Any chance?] |
+#### Scenario A: Klaebo is in the lead group
+| Position | Bib | Name | Nation | Assessment |
+|----------|-----|------|--------|------------|
+| 1-2 | 1 | Klaebo | NOR | If Klaebo reaches the final kilometre with anyone, he wins. His finishing kick is the deadliest weapon in cross-country skiing. 116+ World Cup victories. 3 consecutive Olympic sprint titles. Nobody outsprints this man. |
+| 2-3 | 3 | Nyenget | NOR | Must attack before the sprint. His only path to gold is a solo breakaway. |
+| 3-4 | 7 | Niskanen | FIN | The patient assassin. Has he saved enough for one final surge? |
+| 4-5 | 4 | Iversen | NOR | The comeback king. At 34, running on adrenaline and defiance. |
+| 5-6 | 12 | Korostelev | AIN | If the 22-year-old is here, anything is possible. |
+
+#### Scenario B: Klaebo has been dropped
+> **BROADCASTER READ:** "If Klaebo has lost contact — if the classic specialists have broken him on the climbs — then we are witnessing a historic moment. The greatest Winter Olympian of all time has been denied his perfect sweep. And the race for gold becomes a duel between the classic masters: Nyenget, Niskanen, and Iversen."
 
 ### Sprint Finish Probability Assessment
 
-> **BROADCASTER READ:** "If these [NUMBER] athletes reach the final kilometre together, who wins the sprint? [NAME] has the fastest finishing speed but has been working hard. [NAME] has been sheltered in the group and may have fresher legs. [NAME] is the outsider — nobody expects [him/her] to be here, but [his/her] sprint speed is underestimated."
+> **BROADCASTER READ:** "If Klaebo, Nyenget, Niskanen, and Iversen reach the final kilometre together, who wins the sprint? Klaebo has the fastest finishing speed — by a distance. But he has raced 5 events in 13 days. Nyenget pushed him to 0.5 seconds in the Lahti 50km — the only man who has come close. Niskanen does not sprint; he controls. He will try to break the group before the sprint begins. Iversen — 'Now they can't avoid me' — has the warrior mentality to throw everything at the final climb and hope it sticks."
 
 ### Key Remaining Obstacles
 
-> **BROADCASTER READ:** "There is one more major climb on this course — at [LOCATION / KM MARK]. If anyone is going to break away before the sprint, that is where it will happen. [NAME] is a climber. Watch for [him/her] to attack there."
+> **BROADCASTER READ:** "There is one more major climb on this course. If anyone is going to break away before the sprint, that is where it will happen. Watch Nyenget — described as 'one of the few skiers capable of attacking early and sustaining a solo effort.' Watch Niskanen — the man who changed skis at 40km in PyeongChang and rode away from everyone. And watch the Alpe Cermis ghost: the climbers who excelled at the Tour de Ski final climb on this same mountain — Korostelev was 4th — know how to suffer uphill."
 
 ### The Emotional Stakes
 
-> **BROADCASTER READ:** "Consider what is at stake right now for [NAME]. [He/She] has [CONTEXT — e.g., never won an Olympic gold / is racing in his last Olympics / is competing for a country that has never won a distance medal]. Every stride from here to the finish line carries the weight of that story."
+> **BROADCASTER READ:** "Consider what is at stake right now:
+
+> For **Klaebo (BIB 1)**: 6th gold at a single Olympics. 11 career Olympic golds. The Olympic 50km ghost exorcised forever. The greatest Winter Olympian of all time, and it is no longer debatable. But the 50km has broken him before — DNF Beijing, DQ Oberstdorf. The ghost is real.
+
+> For **Nyenget (BIB 3)**: First Olympics at 33. His first World Cup victory was the 50km Classic in Oslo, two weeks after his father's death. He dedicated it to his late father. Today, in the biggest race of his life, he carries that memory.
+
+> For **Niskanen (BIB 7)**: The defending champion. 34 years old. This may be his last Olympics. Finland's bitter 4th in the relay — 'a bitter taste' — demands redemption. And both his brother and sister Kerttu are in the Finnish team. This is family as much as sport.
+
+> For **Iversen (BIB 4)**: Dropped from the squad. Written off. 'Now they can't avoid me.' The 50km Classic World Champion, racing what is almost certainly his final event at 34. This is vindication or heartbreak. There is no middle ground.
+
+> For **Desloges (BIB 6)**: Three silver medals. Can the 23-year-old French sensation find a 4th? If he is still in the medal conversation at 40km — in a 50km race he has never raced before — it will be the most remarkable debut in the history of the event.
+
+> Every stride from here to the finish line carries the weight of these stories."
 
 ---
 

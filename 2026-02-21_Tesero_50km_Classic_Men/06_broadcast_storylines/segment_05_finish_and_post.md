@@ -56,7 +56,7 @@ The history of the Olympic 50km includes some extraordinarily close finishes:
 
 Alternatively, if an athlete has broken away, the final kilometre is a very different experience:
 
-> **BROADCASTER READ:** "If [NAME] holds this lead, [he/she] will enter the stadium alone. And that is a very special moment. The crowd rises, the cameras zoom in, and for those 30-40 seconds in the finishing straight, one athlete — utterly exhausted, utterly alone — carries the weight of a nation's hopes. The hand goes up. The fist pumps. The ski crosses the line. And a new Olympic champion is crowned."
+> **BROADCASTER READ:** "If the leader holds this gap, he will enter the stadium alone. And that is a very special moment. The crowd rises, the cameras zoom in, and for those 30-40 seconds in the finishing straight, one athlete — utterly exhausted, utterly alone — carries the weight of a nation's hopes. If it is Klaebo, he carries the weight of perfection — 6 for 6. If it is Nyenget, he carries the memory of his father. If it is Niskanen, he carries 8 years of defending his crown. The hand goes up. The fist pumps. The ski crosses the line. And a new Olympic champion is crowned."
 
 ---
 
@@ -126,7 +126,7 @@ At the **2006 Turin Olympics**, Giorgio Di Centa's 50km race was held on 26 Febr
 
 ## The 2026 Olympics in Context
 
-> **BROADCASTER READ:** "These are the 25th Winter Olympic Games. They began in Milan and Cortina and have stretched across the Italian Alps for two weeks of extraordinary sport. The cross-country skiing events here in Tesero have produced [SUMMARY OF EARLIER RESULTS — to be populated]. And now, with this final race, the book closes on cross-country skiing at Milano Cortina 2026."
+> **BROADCASTER READ:** "These are the 25th Winter Olympic Games. They began in Milan and Cortina and have stretched across the Italian Alps for two weeks of extraordinary sport. The cross-country skiing events here in Tesero have produced moments we will never forget: Klaebo's march to 10 golds across 5 events. Desloges' fairytale triple silver. Ogden ending America's 50-year medal drought. Pellegrino's tears at the relay bronze. Norway's relay dominance. And now, with this final race — the 50km classic, the King of Distances — the book closes on cross-country skiing at Milano Cortina 2026."
 
 ## The Generational Storyline
 
@@ -149,68 +149,103 @@ At the 2025 World Championships in Trondheim, Klaebo won all 6 of 6 events, incl
 
 ### If Someone Else Wins — The Giant Killer
 
-> **BROADCASTER READ:** "But consider the alternative. If someone beats Klaebo today — if a Poromaa, or a Krueger, or a dark horse from Finland or Russia or France — they do not just win an Olympic gold medal. They stop the greatest winning streak in Winter Olympic history. They become the athlete who denied Klaebo perfection. That story may be even bigger."
+> **BROADCASTER READ:** "But consider the alternative. If someone beats Klaebo today — if a Nyenget, or a Niskanen, or Iversen the comeback king, or Desloges the French sensation, or Korostelev the controversial neutral athlete — they do not just win an Olympic gold medal. They stop the greatest winning streak in Winter Olympic history. They become the athlete who denied Klaebo perfection. That story may be even bigger."
 
 ## The Sport's Future
 
-> **BROADCASTER READ:** "This 50km classic may also be a generational shift. [INSERT NAMES of young athletes if on start list who could announce themselves]. The veteran champions who have defined the last decade of cross-country skiing are [approaching retirement / in their peak years]. Today's race could be the first signature moment for a new generation."
+> **BROADCASTER READ:** "This 50km classic may also be a generational shift. Desloges is 23 with three silvers. Korostelev is 22 and was 4th in the skiathlon. Jakob Moch is turning 20 today. Schumacher is 25 with a Tour de Ski stage win. These are the names that will define the next Olympic cycle. Meanwhile, the veterans — Niskanen at 34, Iversen at 34, Halfvarsson at 36, Pellegrino at 35, Musgrave at 35 — are racing their last major championship events. Today's race is both a coronation and a farewell. The torch is being passed."
 
 ## The Italian Connection
 
-> **BROADCASTER READ:** "And let us not forget: this is Italy. These are the Italian Alps. The Italian cross-country skiing team has dreamed of this moment — a home Olympics, on the Tesero course, in front of their own fans. Giorgio Di Centa won the 50km at the last Italian Olympics in 2006. If an Italian is competitive today, this stadium will generate a noise level that may constitute a competitive advantage."
+> **BROADCASTER READ:** "And let us not forget: this is Italy. These are the Italian Alps. The Italian cross-country skiing team has dreamed of this moment — a home Olympics, on the Tesero course, in front of their own fans. Giorgio Di Centa won the 50km at the last Italian Olympics in 2006. Today, Italy has Pellegrino in BIB 10 — the sprint legend racing his final event — and young Barp in BIB 11 and Dapra in BIB 24. Pellegrino's team sprint and relay bronzes have already electrified this stadium. His farewell over 50km will generate a noise level that may constitute a competitive advantage for everyone in Italian colours."
 
 ---
 
-# STORYLINE 5: [START LIST INTEGRATION ZONE]
+# STORYLINE 5: THE FINISH — SCENARIO-BASED COMMENTARY
 
-## Template — The Finish and Aftermath
+*Below are prepared scripts for multiple finish scenarios. The broadcast team should use the relevant scenario based on race outcome.*
 
-*This section will be populated with specific athlete data and real-time race events.*
+---
 
-### The Winner
+### SCENARIO A: KLAEBO WINS — The Perfect Sweep
 
-> **BROADCASTER READ:** "[NAME] of [NATION]! Olympic champion! [TIME]! The [AGE]-year-old [DESCRIPTION] has just won the most prestigious distance event in Winter Olympic history!"
+> **BROADCASTER READ:** "Johannes Hoesflot Klaebo! GOLD! Six for six! The greatest Winter Olympian of all time has just won the Olympic 50km! The 29-year-old Norwegian has completed the most dominant performance in Winter Olympic history — six gold medals from six events at a single Games. Eleven career Olympic golds. And the ghost of the 50km — the DNF in Beijing, the disqualification in Oberstdorf — is slain. Forever."
 
-#### Winner Profile Flash
+#### Winner Profile Flash — Klaebo
 | Detail | Data |
 |--------|------|
-| Name | [FULL NAME] |
-| Nation | [NATION + FLAG] |
-| Bib | [NUMBER] |
-| Winning Time | [H:MM:SS.S] |
-| Margin of Victory | [+SS.S or sprint photo finish] |
-| Olympic Medal History | [Previous medals] |
-| World Championship Medals | [Count] |
-| This Is Their [Nth] Olympic Gold | [Context] |
+| Name | Johannes Hoesflot KLAEBO |
+| Nation | Norway |
+| Bib | 1 |
+| Career Olympic Golds | 11 (all-time Winter Olympic record) |
+| Golds at MiCo 2026 | 6 (all-time single Games record) |
+| Previous 50km Ghost | DNF Beijing 2022, DQ WCH Oberstdorf 2021 |
+| World Championship Golds | 15 |
+| Total WC Victories | 116+ |
+
+> **BROADCASTER READ:** "This man was trained by his grandfather. He received his first pair of Fischer skis at age 2. He trains in the anonymity of Utah in the off-season. Today, in the Italian Dolomites, he has completed a sweep that may never be matched. Six golds. Six events. Zero defeats. The debate about the greatest Winter Olympian is over."
+
+---
+
+### SCENARIO B: NYENGET WINS — The Breakaway Triumph
+
+> **BROADCASTER READ:** "Martin Loewstroem Nyenget! The classic master! The man who attacked on the climbs and broke even Klaebo — his own teammate! At 33 years old, in his first Olympic Games, Nyenget has won the crown jewel of Nordic skiing. His first World Cup victory came at the 50km Classic in Oslo, two weeks after he buried his father. Today, this win belongs to that memory."
+
+---
+
+### SCENARIO C: NISKANEN WINS — The Defending Champion
+
+> **BROADCASTER READ:** "Iivo Niskanen! The defending champion! Finland has its hero again! Eight years after PyeongChang — where he changed skis at 40 kilometres and rode away from the world — the master of patience has done it once more. At 34 years old. In what may be his final Olympics. The greatest classic distance skier of his generation. Three Olympic gold medals."
+
+---
+
+### SCENARIO D: IVERSEN WINS — The Comeback King
+
+> **BROADCASTER READ:** "Emil Iversen! The man they dropped from the squad! The man who said 'Now they can't avoid me!' The 50km Classic World Champion has won the Olympic 50km Classic! From the Norwegian Cup to the Olympic podium — this is one of the greatest comeback stories in the history of cross-country skiing. At 34, in his final race, Iversen has silenced every doubter."
+
+---
+
+### SCENARIO E: A SURPRISE WINNER
+
+> **BROADCASTER READ:** "This is the magic of the 50 kilometres! The event that has crowned Vladimir Smirnov of Kazakhstan, Giorgio Di Centa of Italy, and now — a new name etched into Olympic history!"
+
+---
+
+### The Pellegrino Finish (regardless of winner)
+
+> **BROADCASTER READ:** "And now — look at the clock. Federico Pellegrino is still out on the course. Italy's sprint legend, in his final race, skiing the 50km classic through his home mountains. Whatever position he finishes — and it will be far from the podium — the Tesero crowd will give him the ovation of his life. Four Olympic medals. A World Championship gold. Over 60 World Cup podiums. And tomorrow, on February 22, he retires. This is the final chapter."
+
+> **BROADCASTER READ:** "Listen to this crowd. Pellegrino enters the stadium. The Italian fans are standing. The cowbells are deafening. This is not about time or position. This is about a man's career, a man's love for this sport, ending on the snow of his homeland. Watch his face. He knows this is the last time."
+
+### The Savart Finish (regardless of winner)
+
+> **BROADCASTER READ:** "And there — look — Stevenson Savart of Haiti. BIB 62. Born in Delmas. Adopted at age 3 by a French family in the Vosges. Haiti's first Olympic cross-country skier. He is finishing the Olympic 50km. The crowd is rising again — the same crowd that gave him an ovation after the skiathlon. He has raced four events at these Games. He has equipment purchased with an Olympic Solidarity scholarship. And he said before these Games: 'Athletes from so-called exotic countries can do winter sports without being laughed at. We have to be taken seriously.' Nobody is laughing. Everyone is cheering."
+
+### The Birthday Boy Finish
+
+> **BROADCASTER READ:** "And Jakob Elias Moch of Germany — BIB 38 — the CU Boulder freshman who turned 20 years old today, on race day — he is still going. Racing the longest event in Olympic cross-country skiing on his birthday, alongside his older brother Friedrich in BIB 16. Two Moch brothers, both finishing an Olympic 50km. Happy birthday, Jakob."
 
 ### Medal Ceremony Preview
 
-> **BROADCASTER READ:** "The medal ceremony for the men's 50 kilometres will take place tomorrow evening at the Closing Ceremony of the Milano Cortina 2026 Winter Olympic Games in Milan. [NAME] will receive the gold medal. [NAME] the silver. [NAME] the bronze."
-
-| Medal | Athlete | Nation | Time | Time Back |
-|-------|---------|--------|------|-----------|
-| GOLD | [NAME] | [NAT] | [TIME] | — |
-| SILVER | [NAME] | [NAT] | [TIME] | +[TIME] |
-| BRONZE | [NAME] | [NAT] | [TIME] | +[TIME] |
+> **BROADCASTER READ:** "The medal ceremony for the men's 50 kilometres will take place tomorrow evening at the Closing Ceremony of the Milano Cortina 2026 Winter Olympic Games in Milan. The champion will walk into that stadium — exhausted, aching, perhaps still hardly believing it — and receive the final gold medal of these Games."
 
 ### Post-Race Reaction
 
-> **BROADCASTER READ:** "Look at [NAME]. [He/She] has collapsed on the snow. [He/She] is on [his/her] back, staring at the sky. After 50 kilometres, after [TIME] of racing, after months and years of preparation for this one moment — it is done. The tears are coming. The coaches are running over. The [NATION] flag is being handed to [him/her]."
-
-### The Losers' Story
-
-> **BROADCASTER READ:** "Spare a thought for [NAME], who finished [POSITION]. [He/She] led for [DISTANCE / TIME] and was caught in the final [DISTANCE]. [He/She] will be devastated tonight, but [his/her] performance was extraordinary. Fourth in the Olympic 50km is a result that very few humans on earth could achieve."
+> **BROADCASTER READ:** "Look at the winner. He has collapsed on the snow. He is on his back, staring at the Italian sky. After 50 kilometres, after two hours of racing, after years of preparation for this one moment — it is done. The tears are coming. The coaches are running over. The flag is being draped around his shoulders. This is what the Olympic 50km does to a human being. It takes everything. And gives back everything."
 
 ### What This Result Means
 
-> **BROADCASTER READ:** "This result means [CONTEXT]:
-> - For [NATION]: [Significance — first gold in this event since X? Continuation of a dynasty? Historic breakthrough?]
-> - For the sport: [What does this say about the future direction of distance XC skiing?]
-> - For the athlete: [Career context — defining moment? Redemption? Farewell?]"
+> **BROADCASTER READ:** "This result means:
+> - **For Norway:** If Klaebo wins — the greatest individual Olympic performance in Winter Games history. If Nyenget or Iversen wins — proof that Norway's depth of classic talent is unmatched.
+> - **For Finland:** If Niskanen wins — redemption for the bitter relay 4th, and Finland's greatest classic distance skier confirmed for all time.
+> - **For France:** If Desloges medals — the most remarkable debut Games in the history of French skiing. Four medals at 23 years old.
+> - **For the sport:** The 50km classic endures as the ultimate test. In an era of sprints and skiathlons, this marathon on skis remains the purest examination of endurance, technique, and courage.
+> - **For Pellegrino and Italy:** A farewell that transcends the result. The sprint legend finished on home snow.
+> - **For Haiti:** Savart completed the 50km. History was made."
 
 ### Final Sign-Off
 
-> **BROADCASTER READ:** "And so the Olympic 50 kilometres has been decided for the 26th time. From Thorleif Haug in Chamonix in 1924 to [NAME] in Tesero in 2026 — 102 years of the King of Distances. Thank you for watching. The medal ceremony will take place tomorrow at the Closing Ceremony. Good afternoon from Val di Fiemme."
+> **BROADCASTER READ:** "And so the Olympic 50 kilometres has been decided for the 26th time. From Thorleif Haug in Chamonix in 1924 to the champion here in Tesero in 2026 — 102 years of the King of Distances. From Norway to Haiti, from the favorites to the dreamers, 65 athletes from 33 nations tested themselves against the longest and hardest race in Winter Olympic sport. Thank you for watching. The medal ceremony will take place tomorrow at the Closing Ceremony. Good afternoon from Val di Fiemme."
 
 ---
 

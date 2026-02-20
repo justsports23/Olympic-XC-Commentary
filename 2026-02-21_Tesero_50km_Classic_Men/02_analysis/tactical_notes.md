@@ -59,14 +59,43 @@ The 50km mass start classic is an approximately 2-hour to 2-hour-15-minute endur
 
 ### 8. Race-Specific Tactical Notes
 
-> [TO BE POPULATED] — Race-specific tactical analysis will be added once the start list is confirmed and athlete profiles are complete. This will include:
-> - Specific athletes likely to set the pace
-> - Expected breakaway candidates and their preferred tactics
-> - Key matchups and how they might unfold over 50km
-> - Nation team tactics (e.g., Norwegian, Swedish, Finnish team strategies with multiple strong athletes)
+#### Pace-Setting Expectations
+- **Norway (4 athletes: BIBs 1-4)** will likely control the race. With Klaebo, Amundsen, Nyenget, and Iversen, they have the depth to dictate tempo and respond to any attack. Expect Nyenget or Iversen to push the classic pace on climbs, while Klaebo and Amundsen conserve for the finish.
+- **France (4 athletes: BIBs 6, 8, 17, 23)** could employ team tactics. Lapalus and Schely are proven classic distance racers; Desloges and Lovera bring fresh legs. A French-led tempo push on classic climbs is possible.
+- **Finland (4 athletes: BIBs 7, 14, 21, 37)** centers on Niskanen. Expect Niskanen to race patiently and make his move in the final 10-15km using his classic superiority.
+
+#### Expected Breakaway Candidates
+1. **NYENGET (BIB 3)** — "One of the few skiers capable of attacking early and sustaining a solo effort." If he attacks on a climb with 15-20km remaining, he could build an insurmountable lead. His 13.8-second win at Oberhof shows he can destroy the field in classic.
+2. **NISKANEN (BIB 7)** — Patient racer who typically waits until the final 10km. His 12.9-second win over Klaebo at Falun demonstrates he can accelerate away from anyone in classic technique.
+3. **IVERSEN (BIB 4)** — Won the 2021 WCH 50km by attacking early and leading from the front. May attempt a similar strategy, using his classic mastery to build an early gap.
+4. **KOROSTELEV (BIB 12)** — His progressive Tour de Ski trajectory (getting stronger each stage) suggests he could be a factor in the second half if he conserves early.
+
+#### The Klaebo Dilemma
+Klaebo faces a unique tactical challenge. His finishing speed means the field will try to prevent a bunch sprint. Expect the classic specialists (Nyenget, Niskanen, Iversen) to attack on climbs to shed Klaebo before the final kilometers. Klaebo must decide whether to expend energy covering every attack or bet on his ability to close gaps later.
+
+**The critical question:** Has Klaebo's workload (5 events in 13 days, including the team sprint 3 days prior) left him with enough reserves for a 2+ hour race?
+
+#### Wax Considerations
+- **Norway** historically has the best wax team in the sport. In a 50km classic race, this advantage compounds over the full distance.
+- **Italy** benefits from home-course familiarity — Italian wax technicians have extensive experience with Tesero snow conditions.
+- **The skin ski decision** will be one of the most discussed pre-race tactical choices. Athletes who choose skin skis gain reliable grip but may sacrifice glide speed.
+
+#### Course-Specific Tactics
+- **Valley floor sections** favor powerful double-polers (Klaebo, Amundsen, Niskanen)
+- **Forest climbs (100-140m gain per lap)** are where classic specialists can break the race open
+- **Technical descents** through forest terrain require precise positioning — getting trapped behind a slower skier into a descent can cost critical seconds
+- **Multiple laps** give trailing athletes split-time information, allowing tactical adjustments
+
+#### Fatigue Impact by Race Stage
+- **0-15km:** Pack stays together. Positioning and energy conservation are key.
+- **15-30km:** First selections on climbs. Athletes with poor wax or weak classic technique begin to drop.
+- **30-40km:** Decisive phase begins. Lead group shrinks to 5-10 athletes. Breakaway attempts intensify.
+- **40-50km:** The race is won or lost. Fatigue compounds technique flaws. Athletes who started too aggressively fade. Classic specialists who conserved energy can make decisive moves.
 
 ---
 
 ## Sources
 - General tactical analysis based on historical 50km mass start classic racing patterns
-- Race-specific analysis: [AWAITING START LIST]
+- Individual athlete profiles in `01_athlete_profiles/`
+- [ProXCskiing — 50km Guide](https://www.proxcskiing.com/traditional-skiing/olympics-2026-complete-guide-to-the-mens-50km-mass-start/)
+- [NBC Olympics — 50km Preview](https://www.nbcolympics.com/news/50km-race-johannes-hoesflot-klaebo-could-sweep-mens-cross-country-skiing-olympic-gold)

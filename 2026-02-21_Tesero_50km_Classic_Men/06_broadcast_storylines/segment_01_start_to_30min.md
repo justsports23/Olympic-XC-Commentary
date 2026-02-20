@@ -15,7 +15,7 @@ The first 30 minutes of the Olympic 50km. The gun fires, the field charges into 
 
 ## The Gun
 
-> **BROADCASTER READ:** "BANG! And they are away! [NUMBER] athletes from [NUMBER] nations surging forward as one. This is the most dangerous moment of the race — sixty-plus skiers funnelling into a course designed for maybe ten abreast. Watch the first corner — this is where positions are made and races can end before they begin."
+> **BROADCASTER READ:** "BANG! And they are away! 65 athletes from 33 nations surging forward as one. This is the most dangerous moment of the race — sixty-five skiers funnelling into a course designed for maybe ten abreast. Klaebo in BIB 1 launching from the front row — Amundsen, Nyenget, Iversen right beside him. Watch the first corner — this is where positions are made and races can end before they begin."
 
 ## What Happens at the Start
 
@@ -88,7 +88,7 @@ Scientific studies have quantified the drafting benefit in cross-country skiing:
 
 This creates a fundamental tension in mass-start racing: everyone wants to draft, but someone must lead. The team with the most athletes can share the leading burden — one skier pulls at the front for a few minutes, then rotates to the back while a teammate takes over. Teams with fewer athletes in the lead group must be more strategic, choosing when to shelter and when to contribute.
 
-> **BROADCASTER READ:** "Watch the team tactics here. The Norwegians typically have three, four, even five athletes capable of staying in the lead group. They can take turns at the front, rotating like a cycling team. A nation with just one athlete in the mix? That skier must be a pure passenger — sitting on Norwegian wheels, waiting for the right moment to strike. It is a lonely position, but it can work. Ask Iivo Niskanen, who did exactly that in PyeongChang."
+> **BROADCASTER READ:** "Watch the team tactics here. Norway has four athletes in this race — Klaebo, Amundsen, Nyenget, and Iversen — all capable of staying in the lead group. They can take turns at the front, rotating like a cycling team. France also has four — Desloges, Lapalus, Schely, and Lovera — and may try to disrupt Norwegian control. Finland has four centred on Niskanen, the defending champion. But a nation with just one athlete in the mix — like Korostelev racing alone under the neutral flag, or Musgrave flying the British colours? Those skiers must be pure passengers — sitting on Norwegian wheels, waiting for the right moment to strike. Ask Iivo Niskanen, who did exactly that in PyeongChang."
 
 ---
 
@@ -189,38 +189,36 @@ At the 2025 World Championships in Trondheim, Klaebo won all 6 gold medals from 
 
 ---
 
-# STORYLINE 5: [START LIST INTEGRATION ZONE]
-
-## Template — Early Race Observations
-
-*This section will be updated in real-time or populated with start list data once available.*
+# STORYLINE 5: EARLY RACE — READING THE FIELD
 
 ### Lead Group Composition (First 10km)
 
-> **BROADCASTER READ:** "As we approach the [X] km mark, the field is still largely together. Let me identify the key athletes in the lead group..."
+> **BROADCASTER READ:** "As we approach the 10-kilometre mark, the field is still largely together — one massive pack of 60-plus athletes. Let me identify the key athletes near the front..."
 
-#### Front of Pack
+#### Expected Front of Pack
 | Position | Bib | Name | Nation | Notes |
 |----------|-----|------|--------|-------|
-| 1-3 | [BIB] | [NAME] | [NAT] | Setting pace |
-| 4-6 | [BIB] | [NAME] | [NAT] | Tucked in, drafting |
-| 7-10 | [BIB] | [NAME] | [NAT] | Comfortable, watching |
+| 1-3 | 1, 2, 3 | Klaebo, Amundsen, Nyenget | NOR | Norway controlling pace as expected |
+| 4-6 | 4, 7 | Iversen, Niskanen | NOR, FIN | Tucked in, drafting — classic specialists conserving |
+| 7-10 | 5, 6, 8 | Schumacher, Desloges, Lapalus | USA, FRA, FRA | Comfortable, watching — France monitoring Norwegian moves |
 
-#### Mid-Pack (positions 15-30)
-- [NAME] ([NAT]) — [observation about positioning/body language]
-- [NAME] ([NAT]) — [observation]
+#### Mid-Pack Storylines (positions 15-30)
+- **Pellegrino (BIB 10, ITA)** — The sprint legend in his farewell race. Watch his body language — he does not need to be at the front. He needs to survive. The crowd will cheer every time he passes the stadium.
+- **Korostelev (BIB 12, AIN)** — The controversial neutral athlete. Patient in the skiathlon (4th from mid-pack). Expect him to sit deep in the group, conserving energy for the second half.
+- **Musgrave (BIB 9, GBR)** — Britain's five-time Olympian, trained in Trondheim for 23 years. His 4th at the 2017 WCH 50km shows he knows how to race this distance. Will sit quietly in the pack.
+- **The Moch Brothers** — Friedrich (BIB 16) and Jakob Elias (BIB 38). Look for them near each other in the pack. Jakob turns 20 today — his first 50km at any level.
 
 #### Losing Contact
-- [NAME] ([NAT]) — [gap to leaders, possible reason]
-- [NAME] ([NAT]) — [gap to leaders, possible reason]
+- Watch for **Savart (BIB 62, HAI)** and the back-of-field athletes to begin drifting off the main pack on the first major climb. Savart's goal is completion, not competition — and completing an Olympic 50km will be historic for Haiti.
+- Sprint specialists like **Ogden (BIB 27, USA)** will be in unfamiliar territory beyond 20km. Watch whether the two-time Olympic silver medalist can find a sustainable rhythm.
 
 ### Ski Speed Observations
 
-> **BROADCASTER READ:** "On that last downhill section, we could see some differences in ski speed. [NAME]'s skis are running beautifully — carrying [him] past others on the glide sections. [NAME], on the other hand, appears to have a slight glide deficit. That could become a significant factor over the remaining 40 kilometres."
+> **BROADCASTER READ:** "On that last downhill section, watch for differences in ski speed. The Norwegian wax team — the best in the world — should give Klaebo and his teammates superior glide. If Niskanen's Finnish skis are running well too, that is a good sign for the defending champion. Any athlete on skin skis will show a slight glide deficit on the flats — but that is the price they pay for reliable grip on the climbs."
 
 ### Team Tactics Observed
 
-> **BROADCASTER READ:** "The [NATION] team has [NUMBER] athletes in the lead group. Watch how they position themselves — [NAME] at the front setting tempo, [NAME] sitting behind, [NAME] further back saving energy for the second half."
+> **BROADCASTER READ:** "Norway has four athletes in the lead group — Klaebo, Amundsen, Nyenget, and Iversen. Watch how they position themselves: expect Nyenget or Iversen to push the classic pace on the climbs, while Klaebo and Amundsen conserve their finishing speed for the second half. France also has four — Desloges, Lapalus, Schely, and Lovera — and could employ team tactics to disrupt Norwegian control. Finland centres on Niskanen, who will race patiently, alone in the pack, waiting for his moment."
 
 ---
 

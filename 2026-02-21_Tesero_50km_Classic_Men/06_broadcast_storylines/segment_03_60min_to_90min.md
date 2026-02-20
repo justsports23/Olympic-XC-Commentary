@@ -225,47 +225,48 @@ The altitude effect is more pronounced in longer races for a simple reason: the 
 
 ---
 
-# STORYLINE 5: [START LIST INTEGRATION ZONE]
-
-## Template — The Decisive Phase Observations
-
-*This section will be populated with specific athlete data and real-time race observations.*
+# STORYLINE 5: THE DECISIVE PHASE — BREAKAWAY, TACTICS, AND MEDAL CONTENTION
 
 ### The Breakaway Situation
 
-> **BROADCASTER READ:** "This is the moment we have been waiting for. At [X]km, [NAME] has launched an attack on the [CLIMB NAME/SECTION]. [He/She] has opened a gap of [X] seconds. The question now is: can [he/she] hold it? And who will respond?"
+> **BROADCASTER READ:** "This is the moment we have been waiting for. The decisive phase of the Olympic 50km. The classic specialists have been waiting for this — Nyenget, Niskanen, Iversen — they know the climbs are where this race is won. Watch for an attack on the forest climbs, where drafting is less effective and pure classic power separates the contenders from the pretenders."
 
-#### Current Race Situation (~30km)
-| Group | Athletes | Gap to Leaders | Assessment |
-|-------|----------|---------------|------------|
-| Breakaway | [NAMES] | — | [Sustainable? Too early?] |
-| Chase Group | [NAMES] | +[X] sec | [Working together? Waiting?] |
-| Third Group | [NAMES] | +[X] min | [Racing for top 10-15] |
-| Scattered | Various | +[X] min | [Out of medal contention] |
+#### Expected Race Dynamics (~30-35km)
+| Group | Expected Athletes | Assessment |
+|-------|-------------------|------------|
+| Breakaway Candidates | Nyenget (BIB 3), Niskanen (BIB 7), Iversen (BIB 4) | The classic specialists. If any of them attacks on a climb, Klaebo faces a choice: match or let go. |
+| Lead Group | Klaebo (BIB 1), Amundsen (BIB 2), Desloges (BIB 6), Schumacher (BIB 5) | Sprinters and all-rounders — they need the group together for a sprint finish |
+| Dangerous Passengers | Korostelev (BIB 12), Halfvarsson (BIB 20), Musgrave (BIB 9) | Sitting in, saving energy, waiting for the right moment |
+| Third Group | Lapalus (BIB 8), Schely (BIB 23), Baba (BIB 28) | Racing for top 10-15. France may sacrifice Lapalus/Schely to set tempo for Desloges. |
 
 ### Who Is Working Together?
 
-> **BROADCASTER READ:** "Watch the team dynamics. [NATION] has [NUMBER] athletes in the lead group, and they are working together beautifully — sharing the pace, protecting their main contender. [NAME] from [NATION] is alone in the group — [he/she] must be strategic about when to contribute and when to sit in."
+> **BROADCASTER READ:** "Watch the team dynamics. Norway has the depth to control this race — Iversen and Nyenget can push the classic pace on the climbs while Klaebo sits behind, conserving his sprint. But here is the twist: Nyenget and Iversen both want to win. At some point, Norwegian team tactics become Norwegian individual ambition. That is when the race breaks open."
+
+> **BROADCASTER READ:** "Niskanen from Finland is alone in the group — he must be strategic about when to contribute and when to sit in. In PyeongChang 2018, he rode the pack for 40 kilometres, barely contributing to the pace. Then he changed skis and rode away from everyone. Watch for the same patient strategy today."
+
+> **BROADCASTER READ:** "Korostelev, the neutral athlete in BIB 12, is the ultimate lone wolf. No teammates. No flag to rally behind. No coaches in the feed zone except those assigned by the IOC. Everything he does, he does alone. But his 4th in the skiathlon proved he can compete with the very best — and he enters this race with unfinished business."
 
 ### Team Tactics in Action
 
-#### Template for Key Nations
-- **Norway**: [NUMBER] in lead group — [NAMES]. [Who is doing the work? Who is being protected?]
-- **Sweden**: [NUMBER] in lead group — [NAMES]. [Tactics assessment]
-- **Finland**: [NUMBER] in lead group — [NAMES]. [Tactics assessment]
-- **[OTHER NATION]**: [NUMBER] in lead group — [NAMES]. [Lone wolf strategy?]
+- **Norway (BIBs 1, 2, 3, 4)**: 4 in lead group — Klaebo, Amundsen, Nyenget, Iversen. Nyenget and Iversen are the classic engines; Klaebo is being protected for the sprint. But if Nyenget attacks, does Klaebo follow or trust his teammates?
+- **France (BIBs 6, 8, 17, 23)**: Desloges is the star — 3 silvers already. Lapalus and Schely are proven classic distance racers who can set tempo. A French-led tempo push on the climbs could disrupt Norwegian control.
+- **Finland (BIBs 7, 14, 21, 37)**: Niskanen is the sole medal contender. His teammates may be out of the lead group by now, meaning Niskanen races alone — his preferred mode.
+- **AIN (BIB 12)**: Korostelev — true lone wolf. No team tactics possible.
+- **Germany (BIBs 15, 16, 38)**: Friedrich Moch (BIB 16) may still be in contact. His younger brother Jakob (BIB 38) — the birthday boy — is fighting just to survive.
 
 ### Critical Feed Zone
 
-> **BROADCASTER READ:** "We are approaching the next feed zone. Watch carefully — will anyone change skis? In PyeongChang, Niskanen changed skis at the 40km mark and won the gold. A ski change here at [X]km could be a game-changer if conditions have shifted."
+> **BROADCASTER READ:** "We are approaching the next feed zone. Watch carefully — will anyone change skis? In PyeongChang 2018, Niskanen changed skis at the 40km mark and won the gold. A ski change at this stage costs 20-30 seconds but can gain minutes if conditions have shifted. The Finnish wax team will be ready. So will the Norwegians — they prepare backup skis for exactly this moment."
 
 ### Medal Contention Assessment (~35km)
 
 > **BROADCASTER READ:** "With 15 kilometres to go, here is my medal assessment:
-> - **Gold favourite:** [NAME] — [reason]
-> - **Silver position:** [NAME] — [reason]
-> - **Bronze battle:** [NAME] vs. [NAME] — [reason]
-> - **Dark horse still in it:** [NAME] — [reason]"
+> - **Gold favourite:** Klaebo (BIB 1) — if the group stays together, his finishing kick is unbeatable. But fatigue from 5 events in 13 days is the unknown.
+> - **Breakaway threat:** Nyenget (BIB 3) — if he attacks and sustains a solo effort, his classic power could make the gap insurmountable. He beat everyone by 13.8 seconds in Oberhof.
+> - **The Patient Champion:** Niskanen (BIB 7) — the defending Olympic 50km gold medalist. At 34, he knows exactly how to pace this race. Beat Klaebo by 12.9 seconds at Falun. If he has saved his energy, the final 10km belong to him.
+> - **The Comeback King:** Iversen (BIB 4) — the 50km Classic World Champion. 'Now they can't avoid me.' If this comes to a three-way Norwegian battle on the climbs, Iversen has the classic pedigree to be the last man standing.
+> - **Dark horse:** Korostelev (BIB 12) — if the 22-year-old neutral athlete is still in the lead group at 35km, his climbing ability and youth could produce the surprise of the Games."
 
 ---
 

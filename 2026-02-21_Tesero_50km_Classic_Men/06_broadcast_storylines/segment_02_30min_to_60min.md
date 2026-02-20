@@ -219,39 +219,43 @@ The race was held on **26 February** — the final day of the Games — and the 
 
 ---
 
-# STORYLINE 5: [START LIST INTEGRATION ZONE]
-
-## Template — Mid-Race Positioning and Observations
-
-*This section will be populated with specific athlete data and real-time race observations.*
+# STORYLINE 5: MID-RACE — THE RACE WITHIN THE RACE
 
 ### Pack Status at 20-25km
 
-> **BROADCASTER READ:** "As we approach the halfway point, the lead group has thinned to approximately [NUMBER] athletes. Let me tell you who is still in this race..."
+> **BROADCASTER READ:** "As we approach the halfway point, the lead group has thinned to approximately 20-25 athletes. Let me tell you who is still in this race..."
 
-#### Lead Group
-| Rank in Group | Bib | Name | Nation | Body Language | Notes |
-|--------------|-----|------|--------|---------------|-------|
-| 1 | [BIB] | [NAME] | [NAT] | [Fresh/Working/Labouring] | [Pace-setting? Drafting?] |
-| 2 | [BIB] | [NAME] | [NAT] | [Assessment] | [Notes] |
-| 3 | [BIB] | [NAME] | [NAT] | [Assessment] | [Notes] |
-| ... | ... | ... | ... | ... | ... |
+#### Expected Lead Group
+| Rank in Group | Bib | Name | Nation | Assessment | Notes |
+|--------------|-----|------|--------|------------|-------|
+| 1-3 | 1, 3, 4 | Klaebo, Nyenget, Iversen | NOR | Fresh, controlled | Norway dictating the pace |
+| 4-5 | 2, 7 | Amundsen, Niskanen | NOR, FIN | Patient, watching | Defending champion lurking |
+| 6-8 | 5, 6, 8 | Schumacher, Desloges, Lapalus | USA, FRA, FRA | Determined | France hunting as a pack |
+| 9-12 | 12, 20, 9 | Korostelev, Halfvarsson, Musgrave | AIN, SWE, GBR | Dangerous | Dark horses conserving energy |
 
-#### Notable Drops
-- [NAME] ([NAT]) dropped at ~[X]km — now [TIME] behind leaders — [assessment of reason]
-- [NAME] ([NAT]) — lost contact on [climb name / section] — [wax issue? fitness?]
+#### Notable Drops to Watch For
+- **Pellegrino (BIB 10, ITA)** — The sprint legend will likely lose contact with the lead group as the pace increases. This is expected and not a failure — his mission is to complete the race on home snow. Watch for the crowd reaction every time he enters the stadium.
+- **Ogden (BIB 27, USA)** — The sprint silver medalist has never raced a 50km. If he loses contact at 20km, that is 20km further than anyone expected a sprinter to survive at this pace.
+- **Savart (BIB 62, HAI)** — Haiti's first Olympic XC skier will be racing his own race far behind the leaders. But he is racing — and every kilometre extends the boundaries of what Haiti has achieved at the Winter Olympics.
+- **Jakob Moch (BIB 38, GER)** — The birthday boy, turning 20 today, will be in uncharted territory. His longest previous race was 20km. If he is still in the lead group at halfway, that is a remarkable achievement.
 
 ### Wax Performance Assessment
 
-> **BROADCASTER READ:** "At this point, we can see clear differences in ski speed. The [NATION] team's wax is running exceptionally well — their athletes are gaining ground on every flat section. [NAME] appears to be struggling with grip on the climbs, which suggests [wax/skin issue]. The conditions have [changed/remained stable] since the start..."
+> **BROADCASTER READ:** "At this point, we can see clear differences in ski speed. The Norwegian wax team is the best in the sport, and their four athletes should be gaining ground on every flat section. Watch Niskanen — in PyeongChang 2018, his Finnish wax team prepared fresh skis that he switched to at the 40km mark. That ski change won him the gold medal. Could we see a similar gambit today? Also watch for any athletes on skin skis — consistent grip but that slight glide penalty is now compounding over 20-plus kilometres."
 
 ### Who Is Moving Up?
 
-> **BROADCASTER READ:** "Watch [NAME]. [He/She] started conservatively in the pack but has been steadily moving forward over the last 10 kilometres. [He/She] is now in the top [NUMBER]. That is the hallmark of a patient racer who is building toward the second half..."
+> **BROADCASTER READ:** "Watch Korostelev, BIB 12. The 22-year-old neutral athlete started conservatively but has been steadily moving forward. His Tour de Ski trajectory — 9th to 12th to 4th across the stages — tells you everything about this athlete. He gets stronger as races get longer. At 4th on the Alpe Cermis final climb, he proved his climbing ability. If he is near the front at 30km, he is a genuine medal threat."
+
+> **BROADCASTER READ:** "And watch Niskanen, BIB 7. The defending champion always starts patiently. In PyeongChang, he sat in the pack for 40 kilometres before making his move. 'Maybe my coach was a bit nervous because I often start too hard too early,' he said after that race. 'This time I suffered well.' If Niskanen is skiing smoothly at the back of the lead group — relaxed, effortless — that is the most dangerous sight in this race."
 
 ### Who Is Fading?
 
-> **BROADCASTER READ:** "I am concerned about [NAME]. [He/She] was expected to be a medal contender, but the body language at 20 kilometres is not good. The stride has shortened, the posture has dropped. Unless something changes dramatically, this does not look like a podium day for [NAME]."
+> **BROADCASTER READ:** "Keep an eye on Amundsen, BIB 2. He is the second-ranked Norwegian and has 12 World Cup wins this season, but classic technique is not his strongest suit. He struggled with lung issues during the Tour de Ski. If the pace increases on the classic climbs, Amundsen is more vulnerable than his teammates Nyenget and Iversen, who are pure classic specialists."
+
+### The Klaebo Dilemma
+
+> **BROADCASTER READ:** "Here is the tactical chess match at the heart of this race: Klaebo's finishing speed means the field will try to prevent a bunch sprint. Nyenget, Niskanen, and Iversen — the classic specialists — will attack on climbs to shed Klaebo before the final kilometres. Klaebo must decide: does he expend energy covering every attack, or does he bet on his ability to close gaps later? After 5 races in 13 days — including the team sprint just 3 days ago — does he have the reserves for a 2-hour war? That is the question that will determine this Olympic 50km."
 
 ---
 
